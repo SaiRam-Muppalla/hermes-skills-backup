@@ -1,0 +1,4946 @@
+{
+  "format": 1,
+  "roots": [
+    {
+      "source": "C:\\Users\\Nulle\\AppData\\Local\\hermes\\skills",
+      "destination": "skills/shared",
+      "skills": 604,
+      "files": 3199,
+      "bytes": 38539375
+    },
+    {
+      "source": "C:\\Users\\Nulle\\AppData\\Local\\hermes\\profiles\\curriculum\\skills",
+      "destination": "skills/profiles/curriculum",
+      "skills": 15,
+      "files": 100,
+      "bytes": 765974
+    },
+    {
+      "source": "C:\\Users\\Nulle\\AppData\\Local\\hermes\\profiles\\hr\\skills",
+      "destination": "skills/profiles/hr",
+      "skills": 12,
+      "files": 65,
+      "bytes": 715364
+    },
+    {
+      "source": "C:\\Users\\Nulle\\AppData\\Local\\hermes\\profiles\\mow\\skills",
+      "destination": "skills/profiles/mow",
+      "skills": 561,
+      "files": 2979,
+      "bytes": 35847761
+    },
+    {
+      "source": "C:\\Users\\Nulle\\AppData\\Local\\hermes\\profiles\\pm\\skills",
+      "destination": "skills/profiles/pm",
+      "skills": 12,
+      "files": 89,
+      "bytes": 675525
+    },
+    {
+      "source": "C:\\Users\\Nulle\\AppData\\Local\\hermes\\profiles\\proposals\\skills",
+      "destination": "skills/profiles/proposals",
+      "skills": 19,
+      "files": 112,
+      "bytes": 881903
+    }
+  ],
+  "skills": [
+    {
+      "source": "shared/apple/apple-notes",
+      "path": "skills/shared/apple/apple-notes/SKILL.md"
+    },
+    {
+      "source": "shared/apple/apple-reminders",
+      "path": "skills/shared/apple/apple-reminders/SKILL.md"
+    },
+    {
+      "source": "shared/apple/findmy",
+      "path": "skills/shared/apple/findmy/SKILL.md"
+    },
+    {
+      "source": "shared/apple/imessage",
+      "path": "skills/shared/apple/imessage/SKILL.md"
+    },
+    {
+      "source": "shared/autonomous-ai-agents/claude-code",
+      "path": "skills/shared/autonomous-ai-agents/claude-code/SKILL.md"
+    },
+    {
+      "source": "shared/autonomous-ai-agents/codex",
+      "path": "skills/shared/autonomous-ai-agents/codex/SKILL.md"
+    },
+    {
+      "source": "shared/autonomous-ai-agents/computer-use",
+      "path": "skills/shared/autonomous-ai-agents/computer-use/SKILL.md"
+    },
+    {
+      "source": "shared/autonomous-ai-agents/hermes-agent",
+      "path": "skills/shared/autonomous-ai-agents/hermes-agent/SKILL.md"
+    },
+    {
+      "source": "shared/autonomous-ai-agents/opencode",
+      "path": "skills/shared/autonomous-ai-agents/opencode/SKILL.md"
+    },
+    {
+      "source": "shared/autonomous-ai-agents/paperclip-controller",
+      "path": "skills/shared/autonomous-ai-agents/paperclip-controller/SKILL.md"
+    },
+    {
+      "source": "shared/business/3-statement-model",
+      "path": "skills/shared/business/3-statement-model/SKILL.md"
+    },
+    {
+      "source": "shared/business/account-research",
+      "path": "skills/shared/business/account-research/SKILL.md"
+    },
+    {
+      "source": "shared/business/competitive-analysis",
+      "path": "skills/shared/business/competitive-analysis/SKILL.md"
+    },
+    {
+      "source": "shared/business/competitive-intelligence",
+      "path": "skills/shared/business/competitive-intelligence/SKILL.md"
+    },
+    {
+      "source": "shared/business/crossing-the-chasm",
+      "path": "skills/shared/business/crossing-the-chasm/SKILL.md"
+    },
+    {
+      "source": "shared/business/dcf-model",
+      "path": "skills/shared/business/dcf-model/SKILL.md"
+    },
+    {
+      "source": "shared/business/enterprise-sales-motion",
+      "path": "skills/shared/business/enterprise-sales-motion/SKILL.md"
+    },
+    {
+      "source": "shared/business/financial-statements",
+      "path": "skills/shared/business/financial-statements/SKILL.md"
+    },
+    {
+      "source": "shared/business/financial-unit-economics",
+      "path": "skills/shared/business/financial-unit-economics/SKILL.md"
+    },
+    {
+      "source": "shared/business/founder",
+      "path": "skills/shared/business/founder/SKILL.md"
+    },
+    {
+      "source": "shared/business/founder-operating-system",
+      "path": "skills/shared/business/founder-operating-system/SKILL.md"
+    },
+    {
+      "source": "shared/business/gtm-board-and-investor-communication",
+      "path": "skills/shared/business/gtm-board-and-investor-communication/SKILL.md"
+    },
+    {
+      "source": "shared/business/investment-memo",
+      "path": "skills/shared/business/investment-memo/SKILL.md"
+    },
+    {
+      "source": "shared/business/investor-pitch-deck",
+      "path": "skills/shared/business/investor-pitch-deck/SKILL.md"
+    },
+    {
+      "source": "shared/business/jobs-to-be-done",
+      "path": "skills/shared/business/jobs-to-be-done/SKILL.md"
+    },
+    {
+      "source": "shared/business/kpi-dashboard-design",
+      "path": "skills/shared/business/kpi-dashboard-design/SKILL.md"
+    },
+    {
+      "source": "shared/business/marketing-ideas",
+      "path": "skills/shared/business/marketing-ideas/SKILL.md"
+    },
+    {
+      "source": "shared/business/marketing-plan",
+      "path": "skills/shared/business/marketing-plan/SKILL.md"
+    },
+    {
+      "source": "shared/business/marketing-psychology",
+      "path": "skills/shared/business/marketing-psychology/SKILL.md"
+    },
+    {
+      "source": "shared/business/mom-test",
+      "path": "skills/shared/business/mom-test/SKILL.md"
+    },
+    {
+      "source": "shared/business/people-report",
+      "path": "skills/shared/business/people-report/SKILL.md"
+    },
+    {
+      "source": "shared/business/persona-exec-assistant",
+      "path": "skills/shared/business/persona-exec-assistant/SKILL.md"
+    },
+    {
+      "source": "shared/business/persona-hr-coordinator",
+      "path": "skills/shared/business/persona-hr-coordinator/SKILL.md"
+    },
+    {
+      "source": "shared/business/persona-project-manager",
+      "path": "skills/shared/business/persona-project-manager/SKILL.md"
+    },
+    {
+      "source": "shared/business/persona-sales-ops",
+      "path": "skills/shared/business/persona-sales-ops/SKILL.md"
+    },
+    {
+      "source": "shared/business/persona-team-lead",
+      "path": "skills/shared/business/persona-team-lead/SKILL.md"
+    },
+    {
+      "source": "shared/business/pptx",
+      "path": "skills/shared/business/pptx/SKILL.md"
+    },
+    {
+      "source": "shared/business/pricing",
+      "path": "skills/shared/business/pricing/SKILL.md"
+    },
+    {
+      "source": "shared/business/product-hunt-launch",
+      "path": "skills/shared/business/product-hunt-launch/SKILL.md"
+    },
+    {
+      "source": "shared/business/proposal-writer",
+      "path": "skills/shared/business/proposal-writer/SKILL.md"
+    },
+    {
+      "source": "shared/business/sales-enablement",
+      "path": "skills/shared/business/sales-enablement/SKILL.md"
+    },
+    {
+      "source": "shared/business/stakeholder-update",
+      "path": "skills/shared/business/stakeholder-update/SKILL.md"
+    },
+    {
+      "source": "shared/business/startup-canvas",
+      "path": "skills/shared/business/startup-canvas/SKILL.md"
+    },
+    {
+      "source": "shared/business/startup-design",
+      "path": "skills/shared/business/startup-design/SKILL.md"
+    },
+    {
+      "source": "shared/business/startup-financial-modeling",
+      "path": "skills/shared/business/startup-financial-modeling/SKILL.md"
+    },
+    {
+      "source": "shared/business/startup-pitch",
+      "path": "skills/shared/business/startup-pitch/SKILL.md"
+    },
+    {
+      "source": "shared/business/startup-validator",
+      "path": "skills/shared/business/startup-validator/SKILL.md"
+    },
+    {
+      "source": "shared/business/traction-eos",
+      "path": "skills/shared/business/traction-eos/SKILL.md"
+    },
+    {
+      "source": "shared/business/traction-partnership-sales",
+      "path": "skills/shared/business/traction-partnership-sales/SKILL.md"
+    },
+    {
+      "source": "shared/business/unit-economics",
+      "path": "skills/shared/business/unit-economics/SKILL.md"
+    },
+    {
+      "source": "shared/business/vc-strategy",
+      "path": "skills/shared/business/vc-strategy/SKILL.md"
+    },
+    {
+      "source": "shared/claude-code-imports/a11y-audit",
+      "path": "skills/shared/claude-code-imports/a11y-audit/SKILL.md"
+    },
+    {
+      "source": "shared/claude-code-imports/ab-test-setup",
+      "path": "skills/shared/claude-code-imports/ab-test-setup/SKILL.md"
+    },
+    {
+      "source": "shared/claude-code-imports/ab-testing",
+      "path": "skills/shared/claude-code-imports/ab-testing/SKILL.md"
+    },
+    {
+      "source": "shared/claude-code-imports/ad-creative",
+      "path": "skills/shared/claude-code-imports/ad-creative/SKILL.md"
+    },
+    {
+      "source": "shared/claude-code-imports/adversarial-reviewer",
+      "path": "skills/shared/claude-code-imports/adversarial-reviewer/SKILL.md"
+    },
+    {
+      "source": "shared/claude-code-imports/agent-decision-receipts",
+      "path": "skills/shared/claude-code-imports/agent-decision-receipts/SKILL.md"
+    },
+    {
+      "source": "shared/claude-code-imports/agent-designer",
+      "path": "skills/shared/claude-code-imports/agent-designer/SKILL.md"
+    },
+    {
+      "source": "shared/claude-code-imports/agent-protocol",
+      "path": "skills/shared/claude-code-imports/agent-protocol/SKILL.md"
+    },
+    {
+      "source": "shared/claude-code-imports/agent-workflow-designer",
+      "path": "skills/shared/claude-code-imports/agent-workflow-designer/SKILL.md"
+    },
+    {
+      "source": "shared/claude-code-imports/agenthub",
+      "path": "skills/shared/claude-code-imports/agenthub/SKILL.md"
+    },
+    {
+      "source": "shared/claude-code-imports/agile-product-owner",
+      "path": "skills/shared/claude-code-imports/agile-product-owner/SKILL.md"
+    },
+    {
+      "source": "shared/claude-code-imports/ai-act-readiness",
+      "path": "skills/shared/claude-code-imports/ai-act-readiness/SKILL.md"
+    },
+    {
+      "source": "shared/claude-code-imports/ai-second-brain",
+      "path": "skills/shared/claude-code-imports/ai-second-brain/SKILL.md"
+    },
+    {
+      "source": "shared/claude-code-imports/ai-security",
+      "path": "skills/shared/claude-code-imports/ai-security/SKILL.md"
+    },
+    {
+      "source": "shared/claude-code-imports/aims-audit",
+      "path": "skills/shared/claude-code-imports/aims-audit/SKILL.md"
+    },
+    {
+      "source": "shared/claude-code-imports/analytics",
+      "path": "skills/shared/claude-code-imports/analytics/SKILL.md"
+    },
+    {
+      "source": "shared/claude-code-imports/analytics-dashboard",
+      "path": "skills/shared/claude-code-imports/analytics-dashboard/SKILL.md"
+    },
+    {
+      "source": "shared/claude-code-imports/analytics-tracking",
+      "path": "skills/shared/claude-code-imports/analytics-tracking/SKILL.md"
+    },
+    {
+      "source": "shared/claude-code-imports/andreessen",
+      "path": "skills/shared/claude-code-imports/andreessen/SKILL.md"
+    },
+    {
+      "source": "shared/claude-code-imports/api-design-reviewer",
+      "path": "skills/shared/claude-code-imports/api-design-reviewer/SKILL.md"
+    },
+    {
+      "source": "shared/claude-code-imports/api-test-suite-builder",
+      "path": "skills/shared/claude-code-imports/api-test-suite-builder/SKILL.md"
+    },
+    {
+      "source": "shared/claude-code-imports/app-store-optimization",
+      "path": "skills/shared/claude-code-imports/app-store-optimization/SKILL.md"
+    },
+    {
+      "source": "shared/claude-code-imports/apple-hig-expert",
+      "path": "skills/shared/claude-code-imports/apple-hig-expert/SKILL.md"
+    },
+    {
+      "source": "shared/claude-code-imports/arquiteto-de-empresa",
+      "path": "skills/shared/claude-code-imports/arquiteto-de-empresa/SKILL.md"
+    },
+    {
+      "source": "shared/claude-code-imports/atlassian-admin",
+      "path": "skills/shared/claude-code-imports/atlassian-admin/SKILL.md"
+    },
+    {
+      "source": "shared/claude-code-imports/atlassian-templates",
+      "path": "skills/shared/claude-code-imports/atlassian-templates/SKILL.md"
+    },
+    {
+      "source": "shared/claude-code-imports/autoplan",
+      "path": "skills/shared/claude-code-imports/autoplan/SKILL.md"
+    },
+    {
+      "source": "shared/claude-code-imports/autoresearch-agent",
+      "path": "skills/shared/claude-code-imports/autoresearch-agent/SKILL.md"
+    },
+    {
+      "source": "shared/claude-code-imports/aws-solution-architect",
+      "path": "skills/shared/claude-code-imports/aws-solution-architect/SKILL.md"
+    },
+    {
+      "source": "shared/claude-code-imports/azure-cloud-architect",
+      "path": "skills/shared/claude-code-imports/azure-cloud-architect/SKILL.md"
+    },
+    {
+      "source": "shared/claude-code-imports/behuman",
+      "path": "skills/shared/claude-code-imports/behuman/SKILL.md"
+    },
+    {
+      "source": "shared/claude-code-imports/benchmark",
+      "path": "skills/shared/claude-code-imports/benchmark/SKILL.md"
+    },
+    {
+      "source": "shared/claude-code-imports/benchmark-models",
+      "path": "skills/shared/claude-code-imports/benchmark-models/SKILL.md"
+    },
+    {
+      "source": "shared/claude-code-imports/board",
+      "path": "skills/shared/claude-code-imports/board/SKILL.md"
+    },
+    {
+      "source": "shared/claude-code-imports/board-deck-builder",
+      "path": "skills/shared/claude-code-imports/board-deck-builder/SKILL.md"
+    },
+    {
+      "source": "shared/claude-code-imports/board-meeting",
+      "path": "skills/shared/claude-code-imports/board-meeting/SKILL.md"
+    },
+    {
+      "source": "shared/claude-code-imports/board-prep",
+      "path": "skills/shared/claude-code-imports/board-prep/SKILL.md"
+    },
+    {
+      "source": "shared/claude-code-imports/boardroom",
+      "path": "skills/shared/claude-code-imports/boardroom/SKILL.md"
+    },
+    {
+      "source": "shared/claude-code-imports/brand-guidelines",
+      "path": "skills/shared/claude-code-imports/brand-guidelines/SKILL.md"
+    },
+    {
+      "source": "shared/claude-code-imports/brandkit",
+      "path": "skills/shared/claude-code-imports/brandkit/SKILL.md"
+    },
+    {
+      "source": "shared/claude-code-imports/brief",
+      "path": "skills/shared/claude-code-imports/brief/SKILL.md"
+    },
+    {
+      "source": "shared/claude-code-imports/browse",
+      "path": "skills/shared/claude-code-imports/browse/SKILL.md"
+    },
+    {
+      "source": "shared/claude-code-imports/browser-automation",
+      "path": "skills/shared/claude-code-imports/browser-automation/SKILL.md"
+    },
+    {
+      "source": "shared/claude-code-imports/browserstack",
+      "path": "skills/shared/claude-code-imports/browserstack/SKILL.md"
+    },
+    {
+      "source": "shared/claude-code-imports/business-growth-skills",
+      "path": "skills/shared/claude-code-imports/business-growth-skills/SKILL.md"
+    },
+    {
+      "source": "shared/claude-code-imports/business-investment-advisor",
+      "path": "skills/shared/claude-code-imports/business-investment-advisor/SKILL.md"
+    },
+    {
+      "source": "shared/claude-code-imports/business-operations-skills",
+      "path": "skills/shared/claude-code-imports/business-operations-skills/SKILL.md"
+    },
+    {
+      "source": "shared/claude-code-imports/c-level-agents",
+      "path": "skills/shared/claude-code-imports/c-level-agents/SKILL.md"
+    },
+    {
+      "source": "shared/claude-code-imports/c-level-skills",
+      "path": "skills/shared/claude-code-imports/c-level-skills/SKILL.md"
+    },
+    {
+      "source": "shared/claude-code-imports/caio-review",
+      "path": "skills/shared/claude-code-imports/caio-review/SKILL.md"
+    },
+    {
+      "source": "shared/claude-code-imports/campaign-analytics",
+      "path": "skills/shared/claude-code-imports/campaign-analytics/SKILL.md"
+    },
+    {
+      "source": "shared/claude-code-imports/canary",
+      "path": "skills/shared/claude-code-imports/canary/SKILL.md"
+    },
+    {
+      "source": "shared/claude-code-imports/capa-officer",
+      "path": "skills/shared/claude-code-imports/capa-officer/SKILL.md"
+    },
+    {
+      "source": "shared/claude-code-imports/capacity-planner",
+      "path": "skills/shared/claude-code-imports/capacity-planner/SKILL.md"
+    },
+    {
+      "source": "shared/claude-code-imports/capture",
+      "path": "skills/shared/claude-code-imports/capture/SKILL.md"
+    },
+    {
+      "source": "shared/claude-code-imports/careful",
+      "path": "skills/shared/claude-code-imports/careful/SKILL.md"
+    },
+    {
+      "source": "shared/claude-code-imports/caveman",
+      "path": "skills/shared/claude-code-imports/caveman/SKILL.md"
+    },
+    {
+      "source": "shared/claude-code-imports/cco-review",
+      "path": "skills/shared/claude-code-imports/cco-review/SKILL.md"
+    },
+    {
+      "source": "shared/claude-code-imports/cdo-review",
+      "path": "skills/shared/claude-code-imports/cdo-review/SKILL.md"
+    },
+    {
+      "source": "shared/claude-code-imports/cfo-review",
+      "path": "skills/shared/claude-code-imports/cfo-review/SKILL.md"
+    },
+    {
+      "source": "shared/claude-code-imports/challenge",
+      "path": "skills/shared/claude-code-imports/challenge/SKILL.md"
+    },
+    {
+      "source": "shared/claude-code-imports/change-management",
+      "path": "skills/shared/claude-code-imports/change-management/SKILL.md"
+    },
+    {
+      "source": "shared/claude-code-imports/changelog-generator",
+      "path": "skills/shared/claude-code-imports/changelog-generator/SKILL.md"
+    },
+    {
+      "source": "shared/claude-code-imports/channel-economics",
+      "path": "skills/shared/claude-code-imports/channel-economics/SKILL.md"
+    },
+    {
+      "source": "shared/claude-code-imports/chaos-engineering",
+      "path": "skills/shared/claude-code-imports/chaos-engineering/SKILL.md"
+    },
+    {
+      "source": "shared/claude-code-imports/chief-of-staff",
+      "path": "skills/shared/claude-code-imports/chief-of-staff/SKILL.md"
+    },
+    {
+      "source": "shared/claude-code-imports/churn-prevention",
+      "path": "skills/shared/claude-code-imports/churn-prevention/SKILL.md"
+    },
+    {
+      "source": "shared/claude-code-imports/ci-cd-pipeline-builder",
+      "path": "skills/shared/claude-code-imports/ci-cd-pipeline-builder/SKILL.md"
+    },
+    {
+      "source": "shared/claude-code-imports/ciso-review",
+      "path": "skills/shared/claude-code-imports/ciso-review/SKILL.md"
+    },
+    {
+      "source": "shared/claude-code-imports/claude-coach",
+      "path": "skills/shared/claude-code-imports/claude-coach/SKILL.md"
+    },
+    {
+      "source": "shared/claude-code-imports/clinical-research",
+      "path": "skills/shared/claude-code-imports/clinical-research/SKILL.md"
+    },
+    {
+      "source": "shared/claude-code-imports/cloud-security",
+      "path": "skills/shared/claude-code-imports/cloud-security/SKILL.md"
+    },
+    {
+      "source": "shared/claude-code-imports/cmo-review",
+      "path": "skills/shared/claude-code-imports/cmo-review/SKILL.md"
+    },
+    {
+      "source": "shared/claude-code-imports/co-marketing",
+      "path": "skills/shared/claude-code-imports/co-marketing/SKILL.md"
+    },
+    {
+      "source": "shared/claude-code-imports/code-reviewer",
+      "path": "skills/shared/claude-code-imports/code-reviewer/SKILL.md"
+    },
+    {
+      "source": "shared/claude-code-imports/code-to-prd",
+      "path": "skills/shared/claude-code-imports/code-to-prd/SKILL.md"
+    },
+    {
+      "source": "shared/claude-code-imports/code-tour",
+      "path": "skills/shared/claude-code-imports/code-tour/SKILL.md"
+    },
+    {
+      "source": "shared/claude-code-imports/codebase-memory",
+      "path": "skills/shared/claude-code-imports/codebase-memory/SKILL.md"
+    },
+    {
+      "source": "shared/claude-code-imports/codebase-onboarding",
+      "path": "skills/shared/claude-code-imports/codebase-onboarding/SKILL.md"
+    },
+    {
+      "source": "shared/claude-code-imports/codex",
+      "path": "skills/shared/claude-code-imports/codex/SKILL.md"
+    },
+    {
+      "source": "shared/claude-code-imports/cold-email",
+      "path": "skills/shared/claude-code-imports/cold-email/SKILL.md"
+    },
+    {
+      "source": "shared/claude-code-imports/collab-proof",
+      "path": "skills/shared/claude-code-imports/collab-proof/SKILL.md"
+    },
+    {
+      "source": "shared/claude-code-imports/commercial-forecaster",
+      "path": "skills/shared/claude-code-imports/commercial-forecaster/SKILL.md"
+    },
+    {
+      "source": "shared/claude-code-imports/commercial-policy",
+      "path": "skills/shared/claude-code-imports/commercial-policy/SKILL.md"
+    },
+    {
+      "source": "shared/claude-code-imports/commercial-skills",
+      "path": "skills/shared/claude-code-imports/commercial-skills/SKILL.md"
+    },
+    {
+      "source": "shared/claude-code-imports/community-marketing",
+      "path": "skills/shared/claude-code-imports/community-marketing/SKILL.md"
+    },
+    {
+      "source": "shared/claude-code-imports/company-os",
+      "path": "skills/shared/claude-code-imports/company-os/SKILL.md"
+    },
+    {
+      "source": "shared/claude-code-imports/competitive-intel",
+      "path": "skills/shared/claude-code-imports/competitive-intel/SKILL.md"
+    },
+    {
+      "source": "shared/claude-code-imports/competitive-teardown",
+      "path": "skills/shared/claude-code-imports/competitive-teardown/SKILL.md"
+    },
+    {
+      "source": "shared/claude-code-imports/competitor-alternatives",
+      "path": "skills/shared/claude-code-imports/competitor-alternatives/SKILL.md"
+    },
+    {
+      "source": "shared/claude-code-imports/competitor-profiling",
+      "path": "skills/shared/claude-code-imports/competitor-profiling/SKILL.md"
+    },
+    {
+      "source": "shared/claude-code-imports/compliance-os",
+      "path": "skills/shared/claude-code-imports/compliance-os/SKILL.md"
+    },
+    {
+      "source": "shared/claude-code-imports/compliance-readiness",
+      "path": "skills/shared/claude-code-imports/compliance-readiness/SKILL.md"
+    },
+    {
+      "source": "shared/claude-code-imports/confluence-expert",
+      "path": "skills/shared/claude-code-imports/confluence-expert/SKILL.md"
+    },
+    {
+      "source": "shared/claude-code-imports/content-matrix",
+      "path": "skills/shared/claude-code-imports/content-matrix/SKILL.md"
+    },
+    {
+      "source": "shared/claude-code-imports/content-strategy",
+      "path": "skills/shared/claude-code-imports/content-strategy/SKILL.md"
+    },
+    {
+      "source": "shared/claude-code-imports/context-engine",
+      "path": "skills/shared/claude-code-imports/context-engine/SKILL.md"
+    },
+    {
+      "source": "shared/claude-code-imports/context-restore",
+      "path": "skills/shared/claude-code-imports/context-restore/SKILL.md"
+    },
+    {
+      "source": "shared/claude-code-imports/context-save",
+      "path": "skills/shared/claude-code-imports/context-save/SKILL.md"
+    },
+    {
+      "source": "shared/claude-code-imports/contract-and-proposal-writer",
+      "path": "skills/shared/claude-code-imports/contract-and-proposal-writer/SKILL.md"
+    },
+    {
+      "source": "shared/claude-code-imports/copy-editing",
+      "path": "skills/shared/claude-code-imports/copy-editing/SKILL.md"
+    },
+    {
+      "source": "shared/claude-code-imports/copywriting",
+      "path": "skills/shared/claude-code-imports/copywriting/SKILL.md"
+    },
+    {
+      "source": "shared/claude-code-imports/coverage",
+      "path": "skills/shared/claude-code-imports/coverage/SKILL.md"
+    },
+    {
+      "source": "shared/claude-code-imports/cpo-review",
+      "path": "skills/shared/claude-code-imports/cpo-review/SKILL.md"
+    },
+    {
+      "source": "shared/claude-code-imports/cro",
+      "path": "skills/shared/claude-code-imports/cro/SKILL.md"
+    },
+    {
+      "source": "shared/claude-code-imports/cro-review",
+      "path": "skills/shared/claude-code-imports/cro-review/SKILL.md"
+    },
+    {
+      "source": "shared/claude-code-imports/cross-eval",
+      "path": "skills/shared/claude-code-imports/cross-eval/SKILL.md"
+    },
+    {
+      "source": "shared/claude-code-imports/cs-onboard",
+      "path": "skills/shared/claude-code-imports/cs-onboard/SKILL.md"
+    },
+    {
+      "source": "shared/claude-code-imports/cso",
+      "path": "skills/shared/claude-code-imports/cso/SKILL.md"
+    },
+    {
+      "source": "shared/claude-code-imports/cto-review",
+      "path": "skills/shared/claude-code-imports/cto-review/SKILL.md"
+    },
+    {
+      "source": "shared/claude-code-imports/culture-architect",
+      "path": "skills/shared/claude-code-imports/culture-architect/SKILL.md"
+    },
+    {
+      "source": "shared/claude-code-imports/customer-research",
+      "path": "skills/shared/claude-code-imports/customer-research/SKILL.md"
+    },
+    {
+      "source": "shared/claude-code-imports/customer-success-manager",
+      "path": "skills/shared/claude-code-imports/customer-success-manager/SKILL.md"
+    },
+    {
+      "source": "shared/claude-code-imports/data-quality-auditor",
+      "path": "skills/shared/claude-code-imports/data-quality-auditor/SKILL.md"
+    },
+    {
+      "source": "shared/claude-code-imports/database-designer",
+      "path": "skills/shared/claude-code-imports/database-designer/SKILL.md"
+    },
+    {
+      "source": "shared/claude-code-imports/database-schema-designer",
+      "path": "skills/shared/claude-code-imports/database-schema-designer/SKILL.md"
+    },
+    {
+      "source": "shared/claude-code-imports/deal-desk",
+      "path": "skills/shared/claude-code-imports/deal-desk/SKILL.md"
+    },
+    {
+      "source": "shared/claude-code-imports/decide",
+      "path": "skills/shared/claude-code-imports/decide/SKILL.md"
+    },
+    {
+      "source": "shared/claude-code-imports/decision-logger",
+      "path": "skills/shared/claude-code-imports/decision-logger/SKILL.md"
+    },
+    {
+      "source": "shared/claude-code-imports/deep-research",
+      "path": "skills/shared/claude-code-imports/deep-research/SKILL.md"
+    },
+    {
+      "source": "shared/claude-code-imports/demo-video",
+      "path": "skills/shared/claude-code-imports/demo-video/SKILL.md"
+    },
+    {
+      "source": "shared/claude-code-imports/dependency-auditor",
+      "path": "skills/shared/claude-code-imports/dependency-auditor/SKILL.md"
+    },
+    {
+      "source": "shared/claude-code-imports/design-consultation",
+      "path": "skills/shared/claude-code-imports/design-consultation/SKILL.md"
+    },
+    {
+      "source": "shared/claude-code-imports/design-html",
+      "path": "skills/shared/claude-code-imports/design-html/SKILL.md"
+    },
+    {
+      "source": "shared/claude-code-imports/design-review",
+      "path": "skills/shared/claude-code-imports/design-review/SKILL.md"
+    },
+    {
+      "source": "shared/claude-code-imports/design-shotgun",
+      "path": "skills/shared/claude-code-imports/design-shotgun/SKILL.md"
+    },
+    {
+      "source": "shared/claude-code-imports/design-taste-frontend",
+      "path": "skills/shared/claude-code-imports/design-taste-frontend/SKILL.md"
+    },
+    {
+      "source": "shared/claude-code-imports/devex-review",
+      "path": "skills/shared/claude-code-imports/devex-review/SKILL.md"
+    },
+    {
+      "source": "shared/claude-code-imports/directory-submissions",
+      "path": "skills/shared/claude-code-imports/directory-submissions/SKILL.md"
+    },
+    {
+      "source": "shared/claude-code-imports/docker-development",
+      "path": "skills/shared/claude-code-imports/docker-development/SKILL.md"
+    },
+    {
+      "source": "shared/claude-code-imports/document-generate",
+      "path": "skills/shared/claude-code-imports/document-generate/SKILL.md"
+    },
+    {
+      "source": "shared/claude-code-imports/document-release",
+      "path": "skills/shared/claude-code-imports/document-release/SKILL.md"
+    },
+    {
+      "source": "shared/claude-code-imports/dossier",
+      "path": "skills/shared/claude-code-imports/dossier/SKILL.md"
+    },
+    {
+      "source": "shared/claude-code-imports/email-sequence",
+      "path": "skills/shared/claude-code-imports/email-sequence/SKILL.md"
+    },
+    {
+      "source": "shared/claude-code-imports/email-template-builder",
+      "path": "skills/shared/claude-code-imports/email-template-builder/SKILL.md"
+    },
+    {
+      "source": "shared/claude-code-imports/emails",
+      "path": "skills/shared/claude-code-imports/emails/SKILL.md"
+    },
+    {
+      "source": "shared/claude-code-imports/engineering-advanced-skills",
+      "path": "skills/shared/claude-code-imports/engineering-advanced-skills/SKILL.md"
+    },
+    {
+      "source": "shared/claude-code-imports/engineering-skills",
+      "path": "skills/shared/claude-code-imports/engineering-skills/SKILL.md"
+    },
+    {
+      "source": "shared/claude-code-imports/env-secrets-manager",
+      "path": "skills/shared/claude-code-imports/env-secrets-manager/SKILL.md"
+    },
+    {
+      "source": "shared/claude-code-imports/epic-design",
+      "path": "skills/shared/claude-code-imports/epic-design/SKILL.md"
+    },
+    {
+      "source": "shared/claude-code-imports/eu-ai-act-specialist",
+      "path": "skills/shared/claude-code-imports/eu-ai-act-specialist/SKILL.md"
+    },
+    {
+      "source": "shared/claude-code-imports/eval",
+      "path": "skills/shared/claude-code-imports/eval/SKILL.md"
+    },
+    {
+      "source": "shared/claude-code-imports/execute",
+      "path": "skills/shared/claude-code-imports/execute/SKILL.md"
+    },
+    {
+      "source": "shared/claude-code-imports/executive-mentor",
+      "path": "skills/shared/claude-code-imports/executive-mentor/SKILL.md"
+    },
+    {
+      "source": "shared/claude-code-imports/experiment-designer",
+      "path": "skills/shared/claude-code-imports/experiment-designer/SKILL.md"
+    },
+    {
+      "source": "shared/claude-code-imports/extract",
+      "path": "skills/shared/claude-code-imports/extract/SKILL.md"
+    },
+    {
+      "source": "shared/claude-code-imports/fda-consultant-specialist",
+      "path": "skills/shared/claude-code-imports/fda-consultant-specialist/SKILL.md"
+    },
+    {
+      "source": "shared/claude-code-imports/fda-qsr-audit-prep",
+      "path": "skills/shared/claude-code-imports/fda-qsr-audit-prep/SKILL.md"
+    },
+    {
+      "source": "shared/claude-code-imports/feature-flags-architect",
+      "path": "skills/shared/claude-code-imports/feature-flags-architect/SKILL.md"
+    },
+    {
+      "source": "shared/claude-code-imports/finance-skills",
+      "path": "skills/shared/claude-code-imports/finance-skills/SKILL.md"
+    },
+    {
+      "source": "shared/claude-code-imports/financial-analyst",
+      "path": "skills/shared/claude-code-imports/financial-analyst/SKILL.md"
+    },
+    {
+      "source": "shared/claude-code-imports/fix",
+      "path": "skills/shared/claude-code-imports/fix/SKILL.md"
+    },
+    {
+      "source": "shared/claude-code-imports/focused-fix",
+      "path": "skills/shared/claude-code-imports/focused-fix/SKILL.md"
+    },
+    {
+      "source": "shared/claude-code-imports/form-cro",
+      "path": "skills/shared/claude-code-imports/form-cro/SKILL.md"
+    },
+    {
+      "source": "shared/claude-code-imports/founder-coach",
+      "path": "skills/shared/claude-code-imports/founder-coach/SKILL.md"
+    },
+    {
+      "source": "shared/claude-code-imports/founder-mode",
+      "path": "skills/shared/claude-code-imports/founder-mode/SKILL.md"
+    },
+    {
+      "source": "shared/claude-code-imports/free-tool-strategy",
+      "path": "skills/shared/claude-code-imports/free-tool-strategy/SKILL.md"
+    },
+    {
+      "source": "shared/claude-code-imports/freeze",
+      "path": "skills/shared/claude-code-imports/freeze/SKILL.md"
+    },
+    {
+      "source": "shared/claude-code-imports/full-output-enforcement",
+      "path": "skills/shared/claude-code-imports/full-output-enforcement/SKILL.md"
+    },
+    {
+      "source": "shared/claude-code-imports/full-page-screenshot",
+      "path": "skills/shared/claude-code-imports/full-page-screenshot/SKILL.md"
+    },
+    {
+      "source": "shared/claude-code-imports/gc-review",
+      "path": "skills/shared/claude-code-imports/gc-review/SKILL.md"
+    },
+    {
+      "source": "shared/claude-code-imports/gcp-cloud-architect",
+      "path": "skills/shared/claude-code-imports/gcp-cloud-architect/SKILL.md"
+    },
+    {
+      "source": "shared/claude-code-imports/gdpr-audit-prep",
+      "path": "skills/shared/claude-code-imports/gdpr-audit-prep/SKILL.md"
+    },
+    {
+      "source": "shared/claude-code-imports/gdpr-dsgvo-expert",
+      "path": "skills/shared/claude-code-imports/gdpr-dsgvo-expert/SKILL.md"
+    },
+    {
+      "source": "shared/claude-code-imports/gemini-carousel",
+      "path": "skills/shared/claude-code-imports/gemini-carousel/SKILL.md"
+    },
+    {
+      "source": "shared/claude-code-imports/gemini-infographic",
+      "path": "skills/shared/claude-code-imports/gemini-infographic/SKILL.md"
+    },
+    {
+      "source": "shared/claude-code-imports/generate",
+      "path": "skills/shared/claude-code-imports/generate/SKILL.md"
+    },
+    {
+      "source": "shared/claude-code-imports/git-worktree-manager",
+      "path": "skills/shared/claude-code-imports/git-worktree-manager/SKILL.md"
+    },
+    {
+      "source": "shared/claude-code-imports/google-workspace-cli",
+      "path": "skills/shared/claude-code-imports/google-workspace-cli/SKILL.md"
+    },
+    {
+      "source": "shared/claude-code-imports/gpt-taste",
+      "path": "skills/shared/claude-code-imports/gpt-taste/SKILL.md"
+    },
+    {
+      "source": "shared/claude-code-imports/grants",
+      "path": "skills/shared/claude-code-imports/grants/SKILL.md"
+    },
+    {
+      "source": "shared/claude-code-imports/graphic-designer",
+      "path": "skills/shared/claude-code-imports/graphic-designer/SKILL.md"
+    },
+    {
+      "source": "shared/claude-code-imports/grill-me",
+      "path": "skills/shared/claude-code-imports/grill-me/SKILL.md"
+    },
+    {
+      "source": "shared/claude-code-imports/grill-with-docs",
+      "path": "skills/shared/claude-code-imports/grill-with-docs/SKILL.md"
+    },
+    {
+      "source": "shared/claude-code-imports/gstack",
+      "path": "skills/shared/claude-code-imports/gstack/SKILL.md"
+    },
+    {
+      "source": "shared/claude-code-imports/gstack/autoplan",
+      "path": "skills/shared/claude-code-imports/gstack/autoplan/SKILL.md"
+    },
+    {
+      "source": "shared/claude-code-imports/gstack/benchmark",
+      "path": "skills/shared/claude-code-imports/gstack/benchmark/SKILL.md"
+    },
+    {
+      "source": "shared/claude-code-imports/gstack/benchmark-models",
+      "path": "skills/shared/claude-code-imports/gstack/benchmark-models/SKILL.md"
+    },
+    {
+      "source": "shared/claude-code-imports/gstack/browse",
+      "path": "skills/shared/claude-code-imports/gstack/browse/SKILL.md"
+    },
+    {
+      "source": "shared/claude-code-imports/gstack/browser-skills/hackernews-frontpage",
+      "path": "skills/shared/claude-code-imports/gstack/browser-skills/hackernews-frontpage/SKILL.md"
+    },
+    {
+      "source": "shared/claude-code-imports/gstack/canary",
+      "path": "skills/shared/claude-code-imports/gstack/canary/SKILL.md"
+    },
+    {
+      "source": "shared/claude-code-imports/gstack/careful",
+      "path": "skills/shared/claude-code-imports/gstack/careful/SKILL.md"
+    },
+    {
+      "source": "shared/claude-code-imports/gstack/codex",
+      "path": "skills/shared/claude-code-imports/gstack/codex/SKILL.md"
+    },
+    {
+      "source": "shared/claude-code-imports/gstack/context-restore",
+      "path": "skills/shared/claude-code-imports/gstack/context-restore/SKILL.md"
+    },
+    {
+      "source": "shared/claude-code-imports/gstack/context-save",
+      "path": "skills/shared/claude-code-imports/gstack/context-save/SKILL.md"
+    },
+    {
+      "source": "shared/claude-code-imports/gstack/cso",
+      "path": "skills/shared/claude-code-imports/gstack/cso/SKILL.md"
+    },
+    {
+      "source": "shared/claude-code-imports/gstack/design-consultation",
+      "path": "skills/shared/claude-code-imports/gstack/design-consultation/SKILL.md"
+    },
+    {
+      "source": "shared/claude-code-imports/gstack/design-html",
+      "path": "skills/shared/claude-code-imports/gstack/design-html/SKILL.md"
+    },
+    {
+      "source": "shared/claude-code-imports/gstack/design-review",
+      "path": "skills/shared/claude-code-imports/gstack/design-review/SKILL.md"
+    },
+    {
+      "source": "shared/claude-code-imports/gstack/design-shotgun",
+      "path": "skills/shared/claude-code-imports/gstack/design-shotgun/SKILL.md"
+    },
+    {
+      "source": "shared/claude-code-imports/gstack/devex-review",
+      "path": "skills/shared/claude-code-imports/gstack/devex-review/SKILL.md"
+    },
+    {
+      "source": "shared/claude-code-imports/gstack/document-generate",
+      "path": "skills/shared/claude-code-imports/gstack/document-generate/SKILL.md"
+    },
+    {
+      "source": "shared/claude-code-imports/gstack/document-release",
+      "path": "skills/shared/claude-code-imports/gstack/document-release/SKILL.md"
+    },
+    {
+      "source": "shared/claude-code-imports/gstack/freeze",
+      "path": "skills/shared/claude-code-imports/gstack/freeze/SKILL.md"
+    },
+    {
+      "source": "shared/claude-code-imports/gstack/gstack-upgrade",
+      "path": "skills/shared/claude-code-imports/gstack/gstack-upgrade/SKILL.md"
+    },
+    {
+      "source": "shared/claude-code-imports/gstack/guard",
+      "path": "skills/shared/claude-code-imports/gstack/guard/SKILL.md"
+    },
+    {
+      "source": "shared/claude-code-imports/gstack/health",
+      "path": "skills/shared/claude-code-imports/gstack/health/SKILL.md"
+    },
+    {
+      "source": "shared/claude-code-imports/gstack/investigate",
+      "path": "skills/shared/claude-code-imports/gstack/investigate/SKILL.md"
+    },
+    {
+      "source": "shared/claude-code-imports/gstack/ios-clean",
+      "path": "skills/shared/claude-code-imports/gstack/ios-clean/SKILL.md"
+    },
+    {
+      "source": "shared/claude-code-imports/gstack/ios-design-review",
+      "path": "skills/shared/claude-code-imports/gstack/ios-design-review/SKILL.md"
+    },
+    {
+      "source": "shared/claude-code-imports/gstack/ios-fix",
+      "path": "skills/shared/claude-code-imports/gstack/ios-fix/SKILL.md"
+    },
+    {
+      "source": "shared/claude-code-imports/gstack/ios-qa",
+      "path": "skills/shared/claude-code-imports/gstack/ios-qa/SKILL.md"
+    },
+    {
+      "source": "shared/claude-code-imports/gstack/ios-sync",
+      "path": "skills/shared/claude-code-imports/gstack/ios-sync/SKILL.md"
+    },
+    {
+      "source": "shared/claude-code-imports/gstack/land-and-deploy",
+      "path": "skills/shared/claude-code-imports/gstack/land-and-deploy/SKILL.md"
+    },
+    {
+      "source": "shared/claude-code-imports/gstack/landing-report",
+      "path": "skills/shared/claude-code-imports/gstack/landing-report/SKILL.md"
+    },
+    {
+      "source": "shared/claude-code-imports/gstack/learn",
+      "path": "skills/shared/claude-code-imports/gstack/learn/SKILL.md"
+    },
+    {
+      "source": "shared/claude-code-imports/gstack/make-pdf",
+      "path": "skills/shared/claude-code-imports/gstack/make-pdf/SKILL.md"
+    },
+    {
+      "source": "shared/claude-code-imports/gstack/office-hours",
+      "path": "skills/shared/claude-code-imports/gstack/office-hours/SKILL.md"
+    },
+    {
+      "source": "shared/claude-code-imports/gstack/open-gstack-browser",
+      "path": "skills/shared/claude-code-imports/gstack/open-gstack-browser/SKILL.md"
+    },
+    {
+      "source": "shared/claude-code-imports/gstack/openclaw/skills/gstack-openclaw-ceo-review",
+      "path": "skills/shared/claude-code-imports/gstack/openclaw/skills/gstack-openclaw-ceo-review/SKILL.md"
+    },
+    {
+      "source": "shared/claude-code-imports/gstack/openclaw/skills/gstack-openclaw-investigate",
+      "path": "skills/shared/claude-code-imports/gstack/openclaw/skills/gstack-openclaw-investigate/SKILL.md"
+    },
+    {
+      "source": "shared/claude-code-imports/gstack/openclaw/skills/gstack-openclaw-office-hours",
+      "path": "skills/shared/claude-code-imports/gstack/openclaw/skills/gstack-openclaw-office-hours/SKILL.md"
+    },
+    {
+      "source": "shared/claude-code-imports/gstack/openclaw/skills/gstack-openclaw-retro",
+      "path": "skills/shared/claude-code-imports/gstack/openclaw/skills/gstack-openclaw-retro/SKILL.md"
+    },
+    {
+      "source": "shared/claude-code-imports/gstack/pair-agent",
+      "path": "skills/shared/claude-code-imports/gstack/pair-agent/SKILL.md"
+    },
+    {
+      "source": "shared/claude-code-imports/gstack/plan-ceo-review",
+      "path": "skills/shared/claude-code-imports/gstack/plan-ceo-review/SKILL.md"
+    },
+    {
+      "source": "shared/claude-code-imports/gstack/plan-design-review",
+      "path": "skills/shared/claude-code-imports/gstack/plan-design-review/SKILL.md"
+    },
+    {
+      "source": "shared/claude-code-imports/gstack/plan-devex-review",
+      "path": "skills/shared/claude-code-imports/gstack/plan-devex-review/SKILL.md"
+    },
+    {
+      "source": "shared/claude-code-imports/gstack/plan-eng-review",
+      "path": "skills/shared/claude-code-imports/gstack/plan-eng-review/SKILL.md"
+    },
+    {
+      "source": "shared/claude-code-imports/gstack/plan-tune",
+      "path": "skills/shared/claude-code-imports/gstack/plan-tune/SKILL.md"
+    },
+    {
+      "source": "shared/claude-code-imports/gstack/qa",
+      "path": "skills/shared/claude-code-imports/gstack/qa/SKILL.md"
+    },
+    {
+      "source": "shared/claude-code-imports/gstack/qa-only",
+      "path": "skills/shared/claude-code-imports/gstack/qa-only/SKILL.md"
+    },
+    {
+      "source": "shared/claude-code-imports/gstack/retro",
+      "path": "skills/shared/claude-code-imports/gstack/retro/SKILL.md"
+    },
+    {
+      "source": "shared/claude-code-imports/gstack/review",
+      "path": "skills/shared/claude-code-imports/gstack/review/SKILL.md"
+    },
+    {
+      "source": "shared/claude-code-imports/gstack/scrape",
+      "path": "skills/shared/claude-code-imports/gstack/scrape/SKILL.md"
+    },
+    {
+      "source": "shared/claude-code-imports/gstack/setup-browser-cookies",
+      "path": "skills/shared/claude-code-imports/gstack/setup-browser-cookies/SKILL.md"
+    },
+    {
+      "source": "shared/claude-code-imports/gstack/setup-deploy",
+      "path": "skills/shared/claude-code-imports/gstack/setup-deploy/SKILL.md"
+    },
+    {
+      "source": "shared/claude-code-imports/gstack/setup-gbrain",
+      "path": "skills/shared/claude-code-imports/gstack/setup-gbrain/SKILL.md"
+    },
+    {
+      "source": "shared/claude-code-imports/gstack/ship",
+      "path": "skills/shared/claude-code-imports/gstack/ship/SKILL.md"
+    },
+    {
+      "source": "shared/claude-code-imports/gstack/skillify",
+      "path": "skills/shared/claude-code-imports/gstack/skillify/SKILL.md"
+    },
+    {
+      "source": "shared/claude-code-imports/gstack/sync-gbrain",
+      "path": "skills/shared/claude-code-imports/gstack/sync-gbrain/SKILL.md"
+    },
+    {
+      "source": "shared/claude-code-imports/gstack/unfreeze",
+      "path": "skills/shared/claude-code-imports/gstack/unfreeze/SKILL.md"
+    },
+    {
+      "source": "shared/claude-code-imports/gstack-upgrade",
+      "path": "skills/shared/claude-code-imports/gstack-upgrade/SKILL.md"
+    },
+    {
+      "source": "shared/claude-code-imports/guard",
+      "path": "skills/shared/claude-code-imports/guard/SKILL.md"
+    },
+    {
+      "source": "shared/claude-code-imports/handoff",
+      "path": "skills/shared/claude-code-imports/handoff/SKILL.md"
+    },
+    {
+      "source": "shared/claude-code-imports/hard-call",
+      "path": "skills/shared/claude-code-imports/hard-call/SKILL.md"
+    },
+    {
+      "source": "shared/claude-code-imports/health",
+      "path": "skills/shared/claude-code-imports/health/SKILL.md"
+    },
+    {
+      "source": "shared/claude-code-imports/helm-chart-builder",
+      "path": "skills/shared/claude-code-imports/helm-chart-builder/SKILL.md"
+    },
+    {
+      "source": "shared/claude-code-imports/high-end-visual-design",
+      "path": "skills/shared/claude-code-imports/high-end-visual-design/SKILL.md"
+    },
+    {
+      "source": "shared/claude-code-imports/hook-generator",
+      "path": "skills/shared/claude-code-imports/hook-generator/SKILL.md"
+    },
+    {
+      "source": "shared/claude-code-imports/image",
+      "path": "skills/shared/claude-code-imports/image/SKILL.md"
+    },
+    {
+      "source": "shared/claude-code-imports/image-to-code",
+      "path": "skills/shared/claude-code-imports/image-to-code/SKILL.md"
+    },
+    {
+      "source": "shared/claude-code-imports/imagegen-frontend-mobile",
+      "path": "skills/shared/claude-code-imports/imagegen-frontend-mobile/SKILL.md"
+    },
+    {
+      "source": "shared/claude-code-imports/imagegen-frontend-web",
+      "path": "skills/shared/claude-code-imports/imagegen-frontend-web/SKILL.md"
+    },
+    {
+      "source": "shared/claude-code-imports/inbox-setup",
+      "path": "skills/shared/claude-code-imports/inbox-setup/SKILL.md"
+    },
+    {
+      "source": "shared/claude-code-imports/inbox-triage",
+      "path": "skills/shared/claude-code-imports/inbox-triage/SKILL.md"
+    },
+    {
+      "source": "shared/claude-code-imports/incident-commander",
+      "path": "skills/shared/claude-code-imports/incident-commander/SKILL.md"
+    },
+    {
+      "source": "shared/claude-code-imports/incident-response",
+      "path": "skills/shared/claude-code-imports/incident-response/SKILL.md"
+    },
+    {
+      "source": "shared/claude-code-imports/industrial-brutalist-ui",
+      "path": "skills/shared/claude-code-imports/industrial-brutalist-ui/SKILL.md"
+    },
+    {
+      "source": "shared/claude-code-imports/information-security-manager-iso27001",
+      "path": "skills/shared/claude-code-imports/information-security-manager-iso27001/SKILL.md"
+    },
+    {
+      "source": "shared/claude-code-imports/init",
+      "path": "skills/shared/claude-code-imports/init/SKILL.md"
+    },
+    {
+      "source": "shared/claude-code-imports/internal-comms",
+      "path": "skills/shared/claude-code-imports/internal-comms/SKILL.md"
+    },
+    {
+      "source": "shared/claude-code-imports/internal-narrative",
+      "path": "skills/shared/claude-code-imports/internal-narrative/SKILL.md"
+    },
+    {
+      "source": "shared/claude-code-imports/interview-system-designer",
+      "path": "skills/shared/claude-code-imports/interview-system-designer/SKILL.md"
+    },
+    {
+      "source": "shared/claude-code-imports/intl-expansion",
+      "path": "skills/shared/claude-code-imports/intl-expansion/SKILL.md"
+    },
+    {
+      "source": "shared/claude-code-imports/investigate",
+      "path": "skills/shared/claude-code-imports/investigate/SKILL.md"
+    },
+    {
+      "source": "shared/claude-code-imports/isms-audit-expert",
+      "path": "skills/shared/claude-code-imports/isms-audit-expert/SKILL.md"
+    },
+    {
+      "source": "shared/claude-code-imports/iso13485-audit-prep",
+      "path": "skills/shared/claude-code-imports/iso13485-audit-prep/SKILL.md"
+    },
+    {
+      "source": "shared/claude-code-imports/iso27001-audit-prep",
+      "path": "skills/shared/claude-code-imports/iso27001-audit-prep/SKILL.md"
+    },
+    {
+      "source": "shared/claude-code-imports/iso42001-specialist",
+      "path": "skills/shared/claude-code-imports/iso42001-specialist/SKILL.md"
+    },
+    {
+      "source": "shared/claude-code-imports/jira-expert",
+      "path": "skills/shared/claude-code-imports/jira-expert/SKILL.md"
+    },
+    {
+      "source": "shared/claude-code-imports/karpathy-coder",
+      "path": "skills/shared/claude-code-imports/karpathy-coder/SKILL.md"
+    },
+    {
+      "source": "shared/claude-code-imports/knowledge-ops",
+      "path": "skills/shared/claude-code-imports/knowledge-ops/SKILL.md"
+    },
+    {
+      "source": "shared/claude-code-imports/kubernetes-operator",
+      "path": "skills/shared/claude-code-imports/kubernetes-operator/SKILL.md"
+    },
+    {
+      "source": "shared/claude-code-imports/land-and-deploy",
+      "path": "skills/shared/claude-code-imports/land-and-deploy/SKILL.md"
+    },
+    {
+      "source": "shared/claude-code-imports/landing",
+      "path": "skills/shared/claude-code-imports/landing/SKILL.md"
+    },
+    {
+      "source": "shared/claude-code-imports/landing-page-generator",
+      "path": "skills/shared/claude-code-imports/landing-page-generator/SKILL.md"
+    },
+    {
+      "source": "shared/claude-code-imports/landing-report",
+      "path": "skills/shared/claude-code-imports/landing-report/SKILL.md"
+    },
+    {
+      "source": "shared/claude-code-imports/launch-strategy",
+      "path": "skills/shared/claude-code-imports/launch-strategy/SKILL.md"
+    },
+    {
+      "source": "shared/claude-code-imports/lead-magnets",
+      "path": "skills/shared/claude-code-imports/lead-magnets/SKILL.md"
+    },
+    {
+      "source": "shared/claude-code-imports/learn",
+      "path": "skills/shared/claude-code-imports/learn/SKILL.md"
+    },
+    {
+      "source": "shared/claude-code-imports/litreview",
+      "path": "skills/shared/claude-code-imports/litreview/SKILL.md"
+    },
+    {
+      "source": "shared/claude-code-imports/llm-cost-optimizer",
+      "path": "skills/shared/claude-code-imports/llm-cost-optimizer/SKILL.md"
+    },
+    {
+      "source": "shared/claude-code-imports/llm-wiki",
+      "path": "skills/shared/claude-code-imports/llm-wiki/SKILL.md"
+    },
+    {
+      "source": "shared/claude-code-imports/loop",
+      "path": "skills/shared/claude-code-imports/loop/SKILL.md"
+    },
+    {
+      "source": "shared/claude-code-imports/loop-library",
+      "path": "skills/shared/claude-code-imports/loop-library/SKILL.md"
+    },
+    {
+      "source": "shared/claude-code-imports/ma-playbook",
+      "path": "skills/shared/claude-code-imports/ma-playbook/SKILL.md"
+    },
+    {
+      "source": "shared/claude-code-imports/make-pdf",
+      "path": "skills/shared/claude-code-imports/make-pdf/SKILL.md"
+    },
+    {
+      "source": "shared/claude-code-imports/markdown-html-orchestrator",
+      "path": "skills/shared/claude-code-imports/markdown-html-orchestrator/SKILL.md"
+    },
+    {
+      "source": "shared/claude-code-imports/market-research",
+      "path": "skills/shared/claude-code-imports/market-research/SKILL.md"
+    },
+    {
+      "source": "shared/claude-code-imports/marketing-demand-acquisition",
+      "path": "skills/shared/claude-code-imports/marketing-demand-acquisition/SKILL.md"
+    },
+    {
+      "source": "shared/claude-code-imports/marketing-skills",
+      "path": "skills/shared/claude-code-imports/marketing-skills/SKILL.md"
+    },
+    {
+      "source": "shared/claude-code-imports/marketing-strategy-pmm",
+      "path": "skills/shared/claude-code-imports/marketing-strategy-pmm/SKILL.md"
+    },
+    {
+      "source": "shared/claude-code-imports/mcp-server-builder",
+      "path": "skills/shared/claude-code-imports/mcp-server-builder/SKILL.md"
+    },
+    {
+      "source": "shared/claude-code-imports/md-document",
+      "path": "skills/shared/claude-code-imports/md-document/SKILL.md"
+    },
+    {
+      "source": "shared/claude-code-imports/md-review",
+      "path": "skills/shared/claude-code-imports/md-review/SKILL.md"
+    },
+    {
+      "source": "shared/claude-code-imports/mdr-745-specialist",
+      "path": "skills/shared/claude-code-imports/mdr-745-specialist/SKILL.md"
+    },
+    {
+      "source": "shared/claude-code-imports/meeting-analyzer",
+      "path": "skills/shared/claude-code-imports/meeting-analyzer/SKILL.md"
+    },
+    {
+      "source": "shared/claude-code-imports/merge",
+      "path": "skills/shared/claude-code-imports/merge/SKILL.md"
+    },
+    {
+      "source": "shared/claude-code-imports/migrate",
+      "path": "skills/shared/claude-code-imports/migrate/SKILL.md"
+    },
+    {
+      "source": "shared/claude-code-imports/migration-architect",
+      "path": "skills/shared/claude-code-imports/migration-architect/SKILL.md"
+    },
+    {
+      "source": "shared/claude-code-imports/minimalist-ui",
+      "path": "skills/shared/claude-code-imports/minimalist-ui/SKILL.md"
+    },
+    {
+      "source": "shared/claude-code-imports/monorepo-navigator",
+      "path": "skills/shared/claude-code-imports/monorepo-navigator/SKILL.md"
+    },
+    {
+      "source": "shared/claude-code-imports/ms365-tenant-manager",
+      "path": "skills/shared/claude-code-imports/ms365-tenant-manager/SKILL.md"
+    },
+    {
+      "source": "shared/claude-code-imports/named-persona-adversarial-review",
+      "path": "skills/shared/claude-code-imports/named-persona-adversarial-review/SKILL.md"
+    },
+    {
+      "source": "shared/claude-code-imports/newsletter-voice",
+      "path": "skills/shared/claude-code-imports/newsletter-voice/SKILL.md"
+    },
+    {
+      "source": "shared/claude-code-imports/niche-research",
+      "path": "skills/shared/claude-code-imports/niche-research/SKILL.md"
+    },
+    {
+      "source": "shared/claude-code-imports/notebooklm",
+      "path": "skills/shared/claude-code-imports/notebooklm/SKILL.md"
+    },
+    {
+      "source": "shared/claude-code-imports/notebooklm-research",
+      "path": "skills/shared/claude-code-imports/notebooklm-research/SKILL.md"
+    },
+    {
+      "source": "shared/claude-code-imports/observability-designer",
+      "path": "skills/shared/claude-code-imports/observability-designer/SKILL.md"
+    },
+    {
+      "source": "shared/claude-code-imports/offers",
+      "path": "skills/shared/claude-code-imports/offers/SKILL.md"
+    },
+    {
+      "source": "shared/claude-code-imports/office-hours",
+      "path": "skills/shared/claude-code-imports/office-hours/SKILL.md"
+    },
+    {
+      "source": "shared/claude-code-imports/onboarding-cro",
+      "path": "skills/shared/claude-code-imports/onboarding-cro/SKILL.md"
+    },
+    {
+      "source": "shared/claude-code-imports/open-gstack-browser",
+      "path": "skills/shared/claude-code-imports/open-gstack-browser/SKILL.md"
+    },
+    {
+      "source": "shared/claude-code-imports/org-health-diagnostic",
+      "path": "skills/shared/claude-code-imports/org-health-diagnostic/SKILL.md"
+    },
+    {
+      "source": "shared/claude-code-imports/page-cro",
+      "path": "skills/shared/claude-code-imports/page-cro/SKILL.md"
+    },
+    {
+      "source": "shared/claude-code-imports/paid-ads",
+      "path": "skills/shared/claude-code-imports/paid-ads/SKILL.md"
+    },
+    {
+      "source": "shared/claude-code-imports/pair-agent",
+      "path": "skills/shared/claude-code-imports/pair-agent/SKILL.md"
+    },
+    {
+      "source": "shared/claude-code-imports/partnerships-architect",
+      "path": "skills/shared/claude-code-imports/partnerships-architect/SKILL.md"
+    },
+    {
+      "source": "shared/claude-code-imports/patent",
+      "path": "skills/shared/claude-code-imports/patent/SKILL.md"
+    },
+    {
+      "source": "shared/claude-code-imports/paywall-upgrade-cro",
+      "path": "skills/shared/claude-code-imports/paywall-upgrade-cro/SKILL.md"
+    },
+    {
+      "source": "shared/claude-code-imports/performance-profiler",
+      "path": "skills/shared/claude-code-imports/performance-profiler/SKILL.md"
+    },
+    {
+      "source": "shared/claude-code-imports/pinned-comment",
+      "path": "skills/shared/claude-code-imports/pinned-comment/SKILL.md"
+    },
+    {
+      "source": "shared/claude-code-imports/plan-ceo-review",
+      "path": "skills/shared/claude-code-imports/plan-ceo-review/SKILL.md"
+    },
+    {
+      "source": "shared/claude-code-imports/plan-design-review",
+      "path": "skills/shared/claude-code-imports/plan-design-review/SKILL.md"
+    },
+    {
+      "source": "shared/claude-code-imports/plan-devex-review",
+      "path": "skills/shared/claude-code-imports/plan-devex-review/SKILL.md"
+    },
+    {
+      "source": "shared/claude-code-imports/plan-eng-review",
+      "path": "skills/shared/claude-code-imports/plan-eng-review/SKILL.md"
+    },
+    {
+      "source": "shared/claude-code-imports/plan-tune",
+      "path": "skills/shared/claude-code-imports/plan-tune/SKILL.md"
+    },
+    {
+      "source": "shared/claude-code-imports/playwright-pro",
+      "path": "skills/shared/claude-code-imports/playwright-pro/SKILL.md"
+    },
+    {
+      "source": "shared/claude-code-imports/pm-skills",
+      "path": "skills/shared/claude-code-imports/pm-skills/SKILL.md"
+    },
+    {
+      "source": "shared/claude-code-imports/popup-cro",
+      "path": "skills/shared/claude-code-imports/popup-cro/SKILL.md"
+    },
+    {
+      "source": "shared/claude-code-imports/post-formatter",
+      "path": "skills/shared/claude-code-imports/post-formatter/SKILL.md"
+    },
+    {
+      "source": "shared/claude-code-imports/post-mortem",
+      "path": "skills/shared/claude-code-imports/post-mortem/SKILL.md"
+    },
+    {
+      "source": "shared/claude-code-imports/post-scorer",
+      "path": "skills/shared/claude-code-imports/post-scorer/SKILL.md"
+    },
+    {
+      "source": "shared/claude-code-imports/post-writer",
+      "path": "skills/shared/claude-code-imports/post-writer/SKILL.md"
+    },
+    {
+      "source": "shared/claude-code-imports/postmortem",
+      "path": "skills/shared/claude-code-imports/postmortem/SKILL.md"
+    },
+    {
+      "source": "shared/claude-code-imports/pr-review-expert",
+      "path": "skills/shared/claude-code-imports/pr-review-expert/SKILL.md"
+    },
+    {
+      "source": "shared/claude-code-imports/pricing-strategist",
+      "path": "skills/shared/claude-code-imports/pricing-strategist/SKILL.md"
+    },
+    {
+      "source": "shared/claude-code-imports/process-mapper",
+      "path": "skills/shared/claude-code-imports/process-mapper/SKILL.md"
+    },
+    {
+      "source": "shared/claude-code-imports/procurement-optimizer",
+      "path": "skills/shared/claude-code-imports/procurement-optimizer/SKILL.md"
+    },
+    {
+      "source": "shared/claude-code-imports/product-analytics",
+      "path": "skills/shared/claude-code-imports/product-analytics/SKILL.md"
+    },
+    {
+      "source": "shared/claude-code-imports/product-discovery",
+      "path": "skills/shared/claude-code-imports/product-discovery/SKILL.md"
+    },
+    {
+      "source": "shared/claude-code-imports/product-manager-toolkit",
+      "path": "skills/shared/claude-code-imports/product-manager-toolkit/SKILL.md"
+    },
+    {
+      "source": "shared/claude-code-imports/product-marketing",
+      "path": "skills/shared/claude-code-imports/product-marketing/SKILL.md"
+    },
+    {
+      "source": "shared/claude-code-imports/product-research",
+      "path": "skills/shared/claude-code-imports/product-research/SKILL.md"
+    },
+    {
+      "source": "shared/claude-code-imports/product-skills",
+      "path": "skills/shared/claude-code-imports/product-skills/SKILL.md"
+    },
+    {
+      "source": "shared/claude-code-imports/product-strategist",
+      "path": "skills/shared/claude-code-imports/product-strategist/SKILL.md"
+    },
+    {
+      "source": "shared/claude-code-imports/profile-optimizer",
+      "path": "skills/shared/claude-code-imports/profile-optimizer/SKILL.md"
+    },
+    {
+      "source": "shared/claude-code-imports/promote",
+      "path": "skills/shared/claude-code-imports/promote/SKILL.md"
+    },
+    {
+      "source": "shared/claude-code-imports/prompt-engineer-toolkit",
+      "path": "skills/shared/claude-code-imports/prompt-engineer-toolkit/SKILL.md"
+    },
+    {
+      "source": "shared/claude-code-imports/prompt-governance",
+      "path": "skills/shared/claude-code-imports/prompt-governance/SKILL.md"
+    },
+    {
+      "source": "shared/claude-code-imports/prospecting",
+      "path": "skills/shared/claude-code-imports/prospecting/SKILL.md"
+    },
+    {
+      "source": "shared/claude-code-imports/public-relations",
+      "path": "skills/shared/claude-code-imports/public-relations/SKILL.md"
+    },
+    {
+      "source": "shared/claude-code-imports/pulse",
+      "path": "skills/shared/claude-code-imports/pulse/SKILL.md"
+    },
+    {
+      "source": "shared/claude-code-imports/qa",
+      "path": "skills/shared/claude-code-imports/qa/SKILL.md"
+    },
+    {
+      "source": "shared/claude-code-imports/qa-only",
+      "path": "skills/shared/claude-code-imports/qa-only/SKILL.md"
+    },
+    {
+      "source": "shared/claude-code-imports/qms-audit-expert",
+      "path": "skills/shared/claude-code-imports/qms-audit-expert/SKILL.md"
+    },
+    {
+      "source": "shared/claude-code-imports/quality-documentation-manager",
+      "path": "skills/shared/claude-code-imports/quality-documentation-manager/SKILL.md"
+    },
+    {
+      "source": "shared/claude-code-imports/quality-manager-qmr",
+      "path": "skills/shared/claude-code-imports/quality-manager-qmr/SKILL.md"
+    },
+    {
+      "source": "shared/claude-code-imports/quality-manager-qms-iso13485",
+      "path": "skills/shared/claude-code-imports/quality-manager-qms-iso13485/SKILL.md"
+    },
+    {
+      "source": "shared/claude-code-imports/quote-post",
+      "path": "skills/shared/claude-code-imports/quote-post/SKILL.md"
+    },
+    {
+      "source": "shared/claude-code-imports/ra-qm-skills",
+      "path": "skills/shared/claude-code-imports/ra-qm-skills/SKILL.md"
+    },
+    {
+      "source": "shared/claude-code-imports/rag-architect",
+      "path": "skills/shared/claude-code-imports/rag-architect/SKILL.md"
+    },
+    {
+      "source": "shared/claude-code-imports/red-team",
+      "path": "skills/shared/claude-code-imports/red-team/SKILL.md"
+    },
+    {
+      "source": "shared/claude-code-imports/redesign-existing-projects",
+      "path": "skills/shared/claude-code-imports/redesign-existing-projects/SKILL.md"
+    },
+    {
+      "source": "shared/claude-code-imports/reels-scripting",
+      "path": "skills/shared/claude-code-imports/reels-scripting/SKILL.md"
+    },
+    {
+      "source": "shared/claude-code-imports/referral-program",
+      "path": "skills/shared/claude-code-imports/referral-program/SKILL.md"
+    },
+    {
+      "source": "shared/claude-code-imports/reflect",
+      "path": "skills/shared/claude-code-imports/reflect/SKILL.md"
+    },
+    {
+      "source": "shared/claude-code-imports/regulatory-affairs-head",
+      "path": "skills/shared/claude-code-imports/regulatory-affairs-head/SKILL.md"
+    },
+    {
+      "source": "shared/claude-code-imports/remember",
+      "path": "skills/shared/claude-code-imports/remember/SKILL.md"
+    },
+    {
+      "source": "shared/claude-code-imports/report",
+      "path": "skills/shared/claude-code-imports/report/SKILL.md"
+    },
+    {
+      "source": "shared/claude-code-imports/research",
+      "path": "skills/shared/claude-code-imports/research/SKILL.md"
+    },
+    {
+      "source": "shared/claude-code-imports/research-finance",
+      "path": "skills/shared/claude-code-imports/research-finance/SKILL.md"
+    },
+    {
+      "source": "shared/claude-code-imports/research-ops-skills",
+      "path": "skills/shared/claude-code-imports/research-ops-skills/SKILL.md"
+    },
+    {
+      "source": "shared/claude-code-imports/research-summarizer",
+      "path": "skills/shared/claude-code-imports/research-summarizer/SKILL.md"
+    },
+    {
+      "source": "shared/claude-code-imports/resume",
+      "path": "skills/shared/claude-code-imports/resume/SKILL.md"
+    },
+    {
+      "source": "shared/claude-code-imports/retro",
+      "path": "skills/shared/claude-code-imports/retro/SKILL.md"
+    },
+    {
+      "source": "shared/claude-code-imports/revenue-operations",
+      "path": "skills/shared/claude-code-imports/revenue-operations/SKILL.md"
+    },
+    {
+      "source": "shared/claude-code-imports/review",
+      "path": "skills/shared/claude-code-imports/review/SKILL.md"
+    },
+    {
+      "source": "shared/claude-code-imports/revops",
+      "path": "skills/shared/claude-code-imports/revops/SKILL.md"
+    },
+    {
+      "source": "shared/claude-code-imports/rfp-responder",
+      "path": "skills/shared/claude-code-imports/rfp-responder/SKILL.md"
+    },
+    {
+      "source": "shared/claude-code-imports/risk-management-specialist",
+      "path": "skills/shared/claude-code-imports/risk-management-specialist/SKILL.md"
+    },
+    {
+      "source": "shared/claude-code-imports/roadmap-communicator",
+      "path": "skills/shared/claude-code-imports/roadmap-communicator/SKILL.md"
+    },
+    {
+      "source": "shared/claude-code-imports/roast",
+      "path": "skills/shared/claude-code-imports/roast/SKILL.md"
+    },
+    {
+      "source": "shared/claude-code-imports/run",
+      "path": "skills/shared/claude-code-imports/run/SKILL.md"
+    },
+    {
+      "source": "shared/claude-code-imports/runbook-generator",
+      "path": "skills/shared/claude-code-imports/runbook-generator/SKILL.md"
+    },
+    {
+      "source": "shared/claude-code-imports/saas-metrics-coach",
+      "path": "skills/shared/claude-code-imports/saas-metrics-coach/SKILL.md"
+    },
+    {
+      "source": "shared/claude-code-imports/saas-scaffolder",
+      "path": "skills/shared/claude-code-imports/saas-scaffolder/SKILL.md"
+    },
+    {
+      "source": "shared/claude-code-imports/sales-enablement",
+      "path": "skills/shared/claude-code-imports/sales-enablement/SKILL.md"
+    },
+    {
+      "source": "shared/claude-code-imports/sales-engineer",
+      "path": "skills/shared/claude-code-imports/sales-engineer/SKILL.md"
+    },
+    {
+      "source": "shared/claude-code-imports/scenario-war-room",
+      "path": "skills/shared/claude-code-imports/scenario-war-room/SKILL.md"
+    },
+    {
+      "source": "shared/claude-code-imports/schema-markup",
+      "path": "skills/shared/claude-code-imports/schema-markup/SKILL.md"
+    },
+    {
+      "source": "shared/claude-code-imports/scrape",
+      "path": "skills/shared/claude-code-imports/scrape/SKILL.md"
+    },
+    {
+      "source": "shared/claude-code-imports/scrum-master",
+      "path": "skills/shared/claude-code-imports/scrum-master/SKILL.md"
+    },
+    {
+      "source": "shared/claude-code-imports/secrets-vault-manager",
+      "path": "skills/shared/claude-code-imports/secrets-vault-manager/SKILL.md"
+    },
+    {
+      "source": "shared/claude-code-imports/security-guidance",
+      "path": "skills/shared/claude-code-imports/security-guidance/SKILL.md"
+    },
+    {
+      "source": "shared/claude-code-imports/security-pen-testing",
+      "path": "skills/shared/claude-code-imports/security-pen-testing/SKILL.md"
+    },
+    {
+      "source": "shared/claude-code-imports/self-eval",
+      "path": "skills/shared/claude-code-imports/self-eval/SKILL.md"
+    },
+    {
+      "source": "shared/claude-code-imports/self-improving-agent",
+      "path": "skills/shared/claude-code-imports/self-improving-agent/SKILL.md"
+    },
+    {
+      "source": "shared/claude-code-imports/senior-architect",
+      "path": "skills/shared/claude-code-imports/senior-architect/SKILL.md"
+    },
+    {
+      "source": "shared/claude-code-imports/senior-backend",
+      "path": "skills/shared/claude-code-imports/senior-backend/SKILL.md"
+    },
+    {
+      "source": "shared/claude-code-imports/senior-computer-vision",
+      "path": "skills/shared/claude-code-imports/senior-computer-vision/SKILL.md"
+    },
+    {
+      "source": "shared/claude-code-imports/senior-data-engineer",
+      "path": "skills/shared/claude-code-imports/senior-data-engineer/SKILL.md"
+    },
+    {
+      "source": "shared/claude-code-imports/senior-data-scientist",
+      "path": "skills/shared/claude-code-imports/senior-data-scientist/SKILL.md"
+    },
+    {
+      "source": "shared/claude-code-imports/senior-devops",
+      "path": "skills/shared/claude-code-imports/senior-devops/SKILL.md"
+    },
+    {
+      "source": "shared/claude-code-imports/senior-frontend",
+      "path": "skills/shared/claude-code-imports/senior-frontend/SKILL.md"
+    },
+    {
+      "source": "shared/claude-code-imports/senior-fullstack",
+      "path": "skills/shared/claude-code-imports/senior-fullstack/SKILL.md"
+    },
+    {
+      "source": "shared/claude-code-imports/senior-ml-engineer",
+      "path": "skills/shared/claude-code-imports/senior-ml-engineer/SKILL.md"
+    },
+    {
+      "source": "shared/claude-code-imports/senior-pm",
+      "path": "skills/shared/claude-code-imports/senior-pm/SKILL.md"
+    },
+    {
+      "source": "shared/claude-code-imports/senior-prompt-engineer",
+      "path": "skills/shared/claude-code-imports/senior-prompt-engineer/SKILL.md"
+    },
+    {
+      "source": "shared/claude-code-imports/senior-qa",
+      "path": "skills/shared/claude-code-imports/senior-qa/SKILL.md"
+    },
+    {
+      "source": "shared/claude-code-imports/senior-secops",
+      "path": "skills/shared/claude-code-imports/senior-secops/SKILL.md"
+    },
+    {
+      "source": "shared/claude-code-imports/senior-security",
+      "path": "skills/shared/claude-code-imports/senior-security/SKILL.md"
+    },
+    {
+      "source": "shared/claude-code-imports/seo",
+      "path": "skills/shared/claude-code-imports/seo/SKILL.md"
+    },
+    {
+      "source": "shared/claude-code-imports/seo-audit",
+      "path": "skills/shared/claude-code-imports/seo-audit/SKILL.md"
+    },
+    {
+      "source": "shared/claude-code-imports/seo-backlinks",
+      "path": "skills/shared/claude-code-imports/seo-backlinks/SKILL.md"
+    },
+    {
+      "source": "shared/claude-code-imports/seo-cluster",
+      "path": "skills/shared/claude-code-imports/seo-cluster/SKILL.md"
+    },
+    {
+      "source": "shared/claude-code-imports/seo-competitor-pages",
+      "path": "skills/shared/claude-code-imports/seo-competitor-pages/SKILL.md"
+    },
+    {
+      "source": "shared/claude-code-imports/seo-content",
+      "path": "skills/shared/claude-code-imports/seo-content/SKILL.md"
+    },
+    {
+      "source": "shared/claude-code-imports/seo-content-brief",
+      "path": "skills/shared/claude-code-imports/seo-content-brief/SKILL.md"
+    },
+    {
+      "source": "shared/claude-code-imports/seo-dataforseo",
+      "path": "skills/shared/claude-code-imports/seo-dataforseo/SKILL.md"
+    },
+    {
+      "source": "shared/claude-code-imports/seo-drift",
+      "path": "skills/shared/claude-code-imports/seo-drift/SKILL.md"
+    },
+    {
+      "source": "shared/claude-code-imports/seo-ecommerce",
+      "path": "skills/shared/claude-code-imports/seo-ecommerce/SKILL.md"
+    },
+    {
+      "source": "shared/claude-code-imports/seo-flow",
+      "path": "skills/shared/claude-code-imports/seo-flow/SKILL.md"
+    },
+    {
+      "source": "shared/claude-code-imports/seo-geo",
+      "path": "skills/shared/claude-code-imports/seo-geo/SKILL.md"
+    },
+    {
+      "source": "shared/claude-code-imports/seo-google",
+      "path": "skills/shared/claude-code-imports/seo-google/SKILL.md"
+    },
+    {
+      "source": "shared/claude-code-imports/seo-hreflang",
+      "path": "skills/shared/claude-code-imports/seo-hreflang/SKILL.md"
+    },
+    {
+      "source": "shared/claude-code-imports/seo-image-gen",
+      "path": "skills/shared/claude-code-imports/seo-image-gen/SKILL.md"
+    },
+    {
+      "source": "shared/claude-code-imports/seo-images",
+      "path": "skills/shared/claude-code-imports/seo-images/SKILL.md"
+    },
+    {
+      "source": "shared/claude-code-imports/seo-local",
+      "path": "skills/shared/claude-code-imports/seo-local/SKILL.md"
+    },
+    {
+      "source": "shared/claude-code-imports/seo-maps",
+      "path": "skills/shared/claude-code-imports/seo-maps/SKILL.md"
+    },
+    {
+      "source": "shared/claude-code-imports/seo-page",
+      "path": "skills/shared/claude-code-imports/seo-page/SKILL.md"
+    },
+    {
+      "source": "shared/claude-code-imports/seo-plan",
+      "path": "skills/shared/claude-code-imports/seo-plan/SKILL.md"
+    },
+    {
+      "source": "shared/claude-code-imports/seo-programmatic",
+      "path": "skills/shared/claude-code-imports/seo-programmatic/SKILL.md"
+    },
+    {
+      "source": "shared/claude-code-imports/seo-schema",
+      "path": "skills/shared/claude-code-imports/seo-schema/SKILL.md"
+    },
+    {
+      "source": "shared/claude-code-imports/seo-sitemap",
+      "path": "skills/shared/claude-code-imports/seo-sitemap/SKILL.md"
+    },
+    {
+      "source": "shared/claude-code-imports/seo-sxo",
+      "path": "skills/shared/claude-code-imports/seo-sxo/SKILL.md"
+    },
+    {
+      "source": "shared/claude-code-imports/seo-technical",
+      "path": "skills/shared/claude-code-imports/seo-technical/SKILL.md"
+    },
+    {
+      "source": "shared/claude-code-imports/setup",
+      "path": "skills/shared/claude-code-imports/setup/SKILL.md"
+    },
+    {
+      "source": "shared/claude-code-imports/setup-browser-cookies",
+      "path": "skills/shared/claude-code-imports/setup-browser-cookies/SKILL.md"
+    },
+    {
+      "source": "shared/claude-code-imports/setup-deploy",
+      "path": "skills/shared/claude-code-imports/setup-deploy/SKILL.md"
+    },
+    {
+      "source": "shared/claude-code-imports/setup-gbrain",
+      "path": "skills/shared/claude-code-imports/setup-gbrain/SKILL.md"
+    },
+    {
+      "source": "shared/claude-code-imports/ship",
+      "path": "skills/shared/claude-code-imports/ship/SKILL.md"
+    },
+    {
+      "source": "shared/claude-code-imports/ship-gate",
+      "path": "skills/shared/claude-code-imports/ship-gate/SKILL.md"
+    },
+    {
+      "source": "shared/claude-code-imports/signup-flow-cro",
+      "path": "skills/shared/claude-code-imports/signup-flow-cro/SKILL.md"
+    },
+    {
+      "source": "shared/claude-code-imports/site-architecture",
+      "path": "skills/shared/claude-code-imports/site-architecture/SKILL.md"
+    },
+    {
+      "source": "shared/claude-code-imports/skill-security-auditor",
+      "path": "skills/shared/claude-code-imports/skill-security-auditor/SKILL.md"
+    },
+    {
+      "source": "shared/claude-code-imports/skill-tester",
+      "path": "skills/shared/claude-code-imports/skill-tester/SKILL.md"
+    },
+    {
+      "source": "shared/claude-code-imports/skill-tester/assets/sample-skill",
+      "path": "skills/shared/claude-code-imports/skill-tester/assets/sample-skill/SKILL.md"
+    },
+    {
+      "source": "shared/claude-code-imports/skillify",
+      "path": "skills/shared/claude-code-imports/skillify/SKILL.md"
+    },
+    {
+      "source": "shared/claude-code-imports/slo-architect",
+      "path": "skills/shared/claude-code-imports/slo-architect/SKILL.md"
+    },
+    {
+      "source": "shared/claude-code-imports/sms",
+      "path": "skills/shared/claude-code-imports/sms/SKILL.md"
+    },
+    {
+      "source": "shared/claude-code-imports/snowflake-development",
+      "path": "skills/shared/claude-code-imports/snowflake-development/SKILL.md"
+    },
+    {
+      "source": "shared/claude-code-imports/soc2-audit-prep",
+      "path": "skills/shared/claude-code-imports/soc2-audit-prep/SKILL.md"
+    },
+    {
+      "source": "shared/claude-code-imports/soc2-compliance",
+      "path": "skills/shared/claude-code-imports/soc2-compliance/SKILL.md"
+    },
+    {
+      "source": "shared/claude-code-imports/social-media-analyzer",
+      "path": "skills/shared/claude-code-imports/social-media-analyzer/SKILL.md"
+    },
+    {
+      "source": "shared/claude-code-imports/social-media-manager",
+      "path": "skills/shared/claude-code-imports/social-media-manager/SKILL.md"
+    },
+    {
+      "source": "shared/claude-code-imports/spawn",
+      "path": "skills/shared/claude-code-imports/spawn/SKILL.md"
+    },
+    {
+      "source": "shared/claude-code-imports/spec-driven-workflow",
+      "path": "skills/shared/claude-code-imports/spec-driven-workflow/SKILL.md"
+    },
+    {
+      "source": "shared/claude-code-imports/spec-to-repo",
+      "path": "skills/shared/claude-code-imports/spec-to-repo/SKILL.md"
+    },
+    {
+      "source": "shared/claude-code-imports/sql-database-assistant",
+      "path": "skills/shared/claude-code-imports/sql-database-assistant/SKILL.md"
+    },
+    {
+      "source": "shared/claude-code-imports/statistical-analyst",
+      "path": "skills/shared/claude-code-imports/statistical-analyst/SKILL.md"
+    },
+    {
+      "source": "shared/claude-code-imports/status",
+      "path": "skills/shared/claude-code-imports/status/SKILL.md"
+    },
+    {
+      "source": "shared/claude-code-imports/stitch-design-taste",
+      "path": "skills/shared/claude-code-imports/stitch-design-taste/SKILL.md"
+    },
+    {
+      "source": "shared/claude-code-imports/strategic-alignment",
+      "path": "skills/shared/claude-code-imports/strategic-alignment/SKILL.md"
+    },
+    {
+      "source": "shared/claude-code-imports/stress-test",
+      "path": "skills/shared/claude-code-imports/stress-test/SKILL.md"
+    },
+    {
+      "source": "shared/claude-code-imports/stripe-integration-expert",
+      "path": "skills/shared/claude-code-imports/stripe-integration-expert/SKILL.md"
+    },
+    {
+      "source": "shared/claude-code-imports/syllabus",
+      "path": "skills/shared/claude-code-imports/syllabus/SKILL.md"
+    },
+    {
+      "source": "shared/claude-code-imports/sync-gbrain",
+      "path": "skills/shared/claude-code-imports/sync-gbrain/SKILL.md"
+    },
+    {
+      "source": "shared/claude-code-imports/task-observer",
+      "path": "skills/shared/claude-code-imports/task-observer/SKILL.md"
+    },
+    {
+      "source": "shared/claude-code-imports/tc-tracker",
+      "path": "skills/shared/claude-code-imports/tc-tracker/SKILL.md"
+    },
+    {
+      "source": "shared/claude-code-imports/tdd-guide",
+      "path": "skills/shared/claude-code-imports/tdd-guide/SKILL.md"
+    },
+    {
+      "source": "shared/claude-code-imports/team-communications",
+      "path": "skills/shared/claude-code-imports/team-communications/SKILL.md"
+    },
+    {
+      "source": "shared/claude-code-imports/tech-debt-tracker",
+      "path": "skills/shared/claude-code-imports/tech-debt-tracker/SKILL.md"
+    },
+    {
+      "source": "shared/claude-code-imports/tech-stack-evaluator",
+      "path": "skills/shared/claude-code-imports/tech-stack-evaluator/SKILL.md"
+    },
+    {
+      "source": "shared/claude-code-imports/terraform-patterns",
+      "path": "skills/shared/claude-code-imports/terraform-patterns/SKILL.md"
+    },
+    {
+      "source": "shared/claude-code-imports/testrail",
+      "path": "skills/shared/claude-code-imports/testrail/SKILL.md"
+    },
+    {
+      "source": "shared/claude-code-imports/threat-detection",
+      "path": "skills/shared/claude-code-imports/threat-detection/SKILL.md"
+    },
+    {
+      "source": "shared/claude-code-imports/ui-design-system",
+      "path": "skills/shared/claude-code-imports/ui-design-system/SKILL.md"
+    },
+    {
+      "source": "shared/claude-code-imports/unfreeze",
+      "path": "skills/shared/claude-code-imports/unfreeze/SKILL.md"
+    },
+    {
+      "source": "shared/claude-code-imports/universal-scraping-architect",
+      "path": "skills/shared/claude-code-imports/universal-scraping-architect/SKILL.md"
+    },
+    {
+      "source": "shared/claude-code-imports/ux-researcher-designer",
+      "path": "skills/shared/claude-code-imports/ux-researcher-designer/SKILL.md"
+    },
+    {
+      "source": "shared/claude-code-imports/vendor-management",
+      "path": "skills/shared/claude-code-imports/vendor-management/SKILL.md"
+    },
+    {
+      "source": "shared/claude-code-imports/video",
+      "path": "skills/shared/claude-code-imports/video/SKILL.md"
+    },
+    {
+      "source": "shared/claude-code-imports/video-content-strategist",
+      "path": "skills/shared/claude-code-imports/video-content-strategist/SKILL.md"
+    },
+    {
+      "source": "shared/claude-code-imports/video-use",
+      "path": "skills/shared/claude-code-imports/video-use/SKILL.md"
+    },
+    {
+      "source": "shared/claude-code-imports/video-use/skills/manim-video",
+      "path": "skills/shared/claude-code-imports/video-use/skills/manim-video/SKILL.md"
+    },
+    {
+      "source": "shared/claude-code-imports/voice-builder",
+      "path": "skills/shared/claude-code-imports/voice-builder/SKILL.md"
+    },
+    {
+      "source": "shared/claude-code-imports/vpe-advisor",
+      "path": "skills/shared/claude-code-imports/vpe-advisor/SKILL.md"
+    },
+    {
+      "source": "shared/claude-code-imports/vpe-review",
+      "path": "skills/shared/claude-code-imports/vpe-review/SKILL.md"
+    },
+    {
+      "source": "shared/claude-code-imports/webinar-marketing",
+      "path": "skills/shared/claude-code-imports/webinar-marketing/SKILL.md"
+    },
+    {
+      "source": "shared/claude-code-imports/workflow-builder",
+      "path": "skills/shared/claude-code-imports/workflow-builder/SKILL.md"
+    },
+    {
+      "source": "shared/claude-code-imports/write-a-skill",
+      "path": "skills/shared/claude-code-imports/write-a-skill/SKILL.md"
+    },
+    {
+      "source": "shared/claude-code-imports/x-twitter-growth",
+      "path": "skills/shared/claude-code-imports/x-twitter-growth/SKILL.md"
+    },
+    {
+      "source": "shared/claude-code-imports/youtube-full",
+      "path": "skills/shared/claude-code-imports/youtube-full/SKILL.md"
+    },
+    {
+      "source": "shared/claude-code-imports/youtube-thumbnail",
+      "path": "skills/shared/claude-code-imports/youtube-thumbnail/SKILL.md"
+    },
+    {
+      "source": "shared/claude-code-imports/zero-hallucination-coder",
+      "path": "skills/shared/claude-code-imports/zero-hallucination-coder/SKILL.md"
+    },
+    {
+      "source": "shared/consulting-frameworks",
+      "path": "skills/shared/consulting-frameworks/SKILL.md"
+    },
+    {
+      "source": "shared/creative/architecture-diagram",
+      "path": "skills/shared/creative/architecture-diagram/SKILL.md"
+    },
+    {
+      "source": "shared/creative/ascii-video",
+      "path": "skills/shared/creative/ascii-video/SKILL.md"
+    },
+    {
+      "source": "shared/creative/baoyu-infographic",
+      "path": "skills/shared/creative/baoyu-infographic/SKILL.md"
+    },
+    {
+      "source": "shared/creative/claude-design",
+      "path": "skills/shared/creative/claude-design/SKILL.md"
+    },
+    {
+      "source": "shared/creative/design-md",
+      "path": "skills/shared/creative/design-md/SKILL.md"
+    },
+    {
+      "source": "shared/creative/humanizer",
+      "path": "skills/shared/creative/humanizer/SKILL.md"
+    },
+    {
+      "source": "shared/creative/manim-video",
+      "path": "skills/shared/creative/manim-video/SKILL.md"
+    },
+    {
+      "source": "shared/creative/p5js",
+      "path": "skills/shared/creative/p5js/SKILL.md"
+    },
+    {
+      "source": "shared/creative/popular-web-designs",
+      "path": "skills/shared/creative/popular-web-designs/SKILL.md"
+    },
+    {
+      "source": "shared/creative/songwriting-and-ai-music",
+      "path": "skills/shared/creative/songwriting-and-ai-music/SKILL.md"
+    },
+    {
+      "source": "shared/deck-refresh",
+      "path": "skills/shared/deck-refresh/SKILL.md"
+    },
+    {
+      "source": "shared/devops/local-service-setup",
+      "path": "skills/shared/devops/local-service-setup/SKILL.md"
+    },
+    {
+      "source": "shared/devops/omniroute-gateway-windows",
+      "path": "skills/shared/devops/omniroute-gateway-windows/SKILL.md"
+    },
+    {
+      "source": "shared/devops/sdlc-review",
+      "path": "skills/shared/devops/sdlc-review/SKILL.md"
+    },
+    {
+      "source": "shared/email/email-inbox-triage",
+      "path": "skills/shared/email/email-inbox-triage/SKILL.md"
+    },
+    {
+      "source": "shared/email/himalaya",
+      "path": "skills/shared/email/himalaya/SKILL.md"
+    },
+    {
+      "source": "shared/firecrawl-lead-gen",
+      "path": "skills/shared/firecrawl-lead-gen/SKILL.md"
+    },
+    {
+      "source": "shared/firecrawl-lead-research",
+      "path": "skills/shared/firecrawl-lead-research/SKILL.md"
+    },
+    {
+      "source": "shared/firecrawl-market-research",
+      "path": "skills/shared/firecrawl-market-research/SKILL.md"
+    },
+    {
+      "source": "shared/ib-check-deck",
+      "path": "skills/shared/ib-check-deck/SKILL.md"
+    },
+    {
+      "source": "shared/investor-materials",
+      "path": "skills/shared/investor-materials/SKILL.md"
+    },
+    {
+      "source": "shared/investor-outreach",
+      "path": "skills/shared/investor-outreach/SKILL.md"
+    },
+    {
+      "source": "shared/media/gif-search",
+      "path": "skills/shared/media/gif-search/SKILL.md"
+    },
+    {
+      "source": "shared/media/songsee",
+      "path": "skills/shared/media/songsee/SKILL.md"
+    },
+    {
+      "source": "shared/media/youtube-content",
+      "path": "skills/shared/media/youtube-content/SKILL.md"
+    },
+    {
+      "source": "shared/note-taking/obsidian",
+      "path": "skills/shared/note-taking/obsidian/SKILL.md"
+    },
+    {
+      "source": "shared/pitch-deck",
+      "path": "skills/shared/pitch-deck/SKILL.md"
+    },
+    {
+      "source": "shared/productivity/airtable",
+      "path": "skills/shared/productivity/airtable/SKILL.md"
+    },
+    {
+      "source": "shared/productivity/box",
+      "path": "skills/shared/productivity/box/SKILL.md"
+    },
+    {
+      "source": "shared/productivity/document-to-action-items",
+      "path": "skills/shared/productivity/document-to-action-items/SKILL.md"
+    },
+    {
+      "source": "shared/productivity/docx",
+      "path": "skills/shared/productivity/docx/SKILL.md"
+    },
+    {
+      "source": "shared/productivity/google-workspace",
+      "path": "skills/shared/productivity/google-workspace/SKILL.md"
+    },
+    {
+      "source": "shared/productivity/maps",
+      "path": "skills/shared/productivity/maps/SKILL.md"
+    },
+    {
+      "source": "shared/productivity/meeting-action-items",
+      "path": "skills/shared/productivity/meeting-action-items/SKILL.md"
+    },
+    {
+      "source": "shared/productivity/mow-curriculum-architect",
+      "path": "skills/shared/productivity/mow-curriculum-architect/SKILL.md"
+    },
+    {
+      "source": "shared/productivity/notion",
+      "path": "skills/shared/productivity/notion/SKILL.md"
+    },
+    {
+      "source": "shared/productivity/pdf",
+      "path": "skills/shared/productivity/pdf/SKILL.md"
+    },
+    {
+      "source": "shared/productivity/powerpoint",
+      "path": "skills/shared/productivity/powerpoint/SKILL.md"
+    },
+    {
+      "source": "shared/productivity/product-price-monitor",
+      "path": "skills/shared/productivity/product-price-monitor/SKILL.md"
+    },
+    {
+      "source": "shared/productivity/solopreneur-operations",
+      "path": "skills/shared/productivity/solopreneur-operations/SKILL.md"
+    },
+    {
+      "source": "shared/productivity/teams-meeting-pipeline",
+      "path": "skills/shared/productivity/teams-meeting-pipeline/SKILL.md"
+    },
+    {
+      "source": "shared/productivity/vault-sync",
+      "path": "skills/shared/productivity/vault-sync/SKILL.md"
+    },
+    {
+      "source": "shared/productivity/weekly-review-planning",
+      "path": "skills/shared/productivity/weekly-review-planning/SKILL.md"
+    },
+    {
+      "source": "shared/productivity/xlsx",
+      "path": "skills/shared/productivity/xlsx/SKILL.md"
+    },
+    {
+      "source": "shared/programmatic-seo",
+      "path": "skills/shared/programmatic-seo/SKILL.md"
+    },
+    {
+      "source": "shared/research/arxiv",
+      "path": "skills/shared/research/arxiv/SKILL.md"
+    },
+    {
+      "source": "shared/research/competitor-news-monitor",
+      "path": "skills/shared/research/competitor-news-monitor/SKILL.md"
+    },
+    {
+      "source": "shared/research/grounded-citations",
+      "path": "skills/shared/research/grounded-citations/SKILL.md"
+    },
+    {
+      "source": "shared/research/llm-wiki",
+      "path": "skills/shared/research/llm-wiki/SKILL.md"
+    },
+    {
+      "source": "shared/research/mow-college-lead-researcher",
+      "path": "skills/shared/research/mow-college-lead-researcher/SKILL.md"
+    },
+    {
+      "source": "shared/sales-funnel-blueprint",
+      "path": "skills/shared/sales-funnel-blueprint/SKILL.md"
+    },
+    {
+      "source": "shared/social-media/xurl",
+      "path": "skills/shared/social-media/xurl/SKILL.md"
+    },
+    {
+      "source": "shared/software-development/codebase-inspection",
+      "path": "skills/shared/software-development/codebase-inspection/SKILL.md"
+    },
+    {
+      "source": "shared/software-development/dogfood",
+      "path": "skills/shared/software-development/dogfood/SKILL.md"
+    },
+    {
+      "source": "shared/software-development/github",
+      "path": "skills/shared/software-development/github/SKILL.md"
+    },
+    {
+      "source": "shared/software-development/hermes-agent-skill-authoring",
+      "path": "skills/shared/software-development/hermes-agent-skill-authoring/SKILL.md"
+    },
+    {
+      "source": "shared/software-development/inspecting-hermes-desktop-dom",
+      "path": "skills/shared/software-development/inspecting-hermes-desktop-dom/SKILL.md"
+    },
+    {
+      "source": "shared/software-development/node-inspect-debugger",
+      "path": "skills/shared/software-development/node-inspect-debugger/SKILL.md"
+    },
+    {
+      "source": "shared/software-development/python-debugpy",
+      "path": "skills/shared/software-development/python-debugpy/SKILL.md"
+    },
+    {
+      "source": "shared/software-development/requesting-code-review",
+      "path": "skills/shared/software-development/requesting-code-review/SKILL.md"
+    },
+    {
+      "source": "shared/software-development/simplify-code",
+      "path": "skills/shared/software-development/simplify-code/SKILL.md"
+    },
+    {
+      "source": "shared/software-development/spike",
+      "path": "skills/shared/software-development/spike/SKILL.md"
+    },
+    {
+      "source": "shared/software-development/systematic-debugging",
+      "path": "skills/shared/software-development/systematic-debugging/SKILL.md"
+    },
+    {
+      "source": "shared/software-development/test-driven-development",
+      "path": "skills/shared/software-development/test-driven-development/SKILL.md"
+    },
+    {
+      "source": "shared/startup-metrics-framework",
+      "path": "skills/shared/startup-metrics-framework/SKILL.md"
+    },
+    {
+      "source": "shared/web/blocked-page-recovery",
+      "path": "skills/shared/web/blocked-page-recovery/SKILL.md"
+    },
+    {
+      "source": "profiles/curriculum/claude-code-imports/deep-research",
+      "path": "skills/profiles/curriculum/claude-code-imports/deep-research/SKILL.md"
+    },
+    {
+      "source": "profiles/curriculum/claude-code-imports/litreview",
+      "path": "skills/profiles/curriculum/claude-code-imports/litreview/SKILL.md"
+    },
+    {
+      "source": "profiles/curriculum/claude-code-imports/pulse",
+      "path": "skills/profiles/curriculum/claude-code-imports/pulse/SKILL.md"
+    },
+    {
+      "source": "profiles/curriculum/claude-code-imports/research",
+      "path": "skills/profiles/curriculum/claude-code-imports/research/SKILL.md"
+    },
+    {
+      "source": "profiles/curriculum/claude-code-imports/research-summarizer",
+      "path": "skills/profiles/curriculum/claude-code-imports/research-summarizer/SKILL.md"
+    },
+    {
+      "source": "profiles/curriculum/claude-code-imports/syllabus",
+      "path": "skills/profiles/curriculum/claude-code-imports/syllabus/SKILL.md"
+    },
+    {
+      "source": "profiles/curriculum/note-taking/obsidian",
+      "path": "skills/profiles/curriculum/note-taking/obsidian/SKILL.md"
+    },
+    {
+      "source": "profiles/curriculum/productivity/docx",
+      "path": "skills/profiles/curriculum/productivity/docx/SKILL.md"
+    },
+    {
+      "source": "profiles/curriculum/productivity/mow-curriculum-architect",
+      "path": "skills/profiles/curriculum/productivity/mow-curriculum-architect/SKILL.md"
+    },
+    {
+      "source": "profiles/curriculum/productivity/pdf",
+      "path": "skills/profiles/curriculum/productivity/pdf/SKILL.md"
+    },
+    {
+      "source": "profiles/curriculum/productivity/powerpoint",
+      "path": "skills/profiles/curriculum/productivity/powerpoint/SKILL.md"
+    },
+    {
+      "source": "profiles/curriculum/productivity/xlsx",
+      "path": "skills/profiles/curriculum/productivity/xlsx/SKILL.md"
+    },
+    {
+      "source": "profiles/curriculum/research/arxiv",
+      "path": "skills/profiles/curriculum/research/arxiv/SKILL.md"
+    },
+    {
+      "source": "profiles/curriculum/research/grounded-citations",
+      "path": "skills/profiles/curriculum/research/grounded-citations/SKILL.md"
+    },
+    {
+      "source": "profiles/curriculum/web/blocked-page-recovery",
+      "path": "skills/profiles/curriculum/web/blocked-page-recovery/SKILL.md"
+    },
+    {
+      "source": "profiles/hr/claude-code-imports/cold-email",
+      "path": "skills/profiles/hr/claude-code-imports/cold-email/SKILL.md"
+    },
+    {
+      "source": "profiles/hr/claude-code-imports/contract-and-proposal-writer",
+      "path": "skills/profiles/hr/claude-code-imports/contract-and-proposal-writer/SKILL.md"
+    },
+    {
+      "source": "profiles/hr/claude-code-imports/deep-research",
+      "path": "skills/profiles/hr/claude-code-imports/deep-research/SKILL.md"
+    },
+    {
+      "source": "profiles/hr/claude-code-imports/interview-system-designer",
+      "path": "skills/profiles/hr/claude-code-imports/interview-system-designer/SKILL.md"
+    },
+    {
+      "source": "profiles/hr/claude-code-imports/prospecting",
+      "path": "skills/profiles/hr/claude-code-imports/prospecting/SKILL.md"
+    },
+    {
+      "source": "profiles/hr/creative/humanizer",
+      "path": "skills/profiles/hr/creative/humanizer/SKILL.md"
+    },
+    {
+      "source": "profiles/hr/note-taking/obsidian",
+      "path": "skills/profiles/hr/note-taking/obsidian/SKILL.md"
+    },
+    {
+      "source": "profiles/hr/productivity/docx",
+      "path": "skills/profiles/hr/productivity/docx/SKILL.md"
+    },
+    {
+      "source": "profiles/hr/productivity/xlsx",
+      "path": "skills/profiles/hr/productivity/xlsx/SKILL.md"
+    },
+    {
+      "source": "profiles/hr/research/grounded-citations",
+      "path": "skills/profiles/hr/research/grounded-citations/SKILL.md"
+    },
+    {
+      "source": "profiles/hr/research/mow-college-lead-researcher",
+      "path": "skills/profiles/hr/research/mow-college-lead-researcher/SKILL.md"
+    },
+    {
+      "source": "profiles/hr/web/blocked-page-recovery",
+      "path": "skills/profiles/hr/web/blocked-page-recovery/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/apple/apple-notes",
+      "path": "skills/profiles/mow/apple/apple-notes/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/apple/apple-reminders",
+      "path": "skills/profiles/mow/apple/apple-reminders/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/apple/findmy",
+      "path": "skills/profiles/mow/apple/findmy/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/apple/imessage",
+      "path": "skills/profiles/mow/apple/imessage/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/autonomous-ai-agents/claude-code",
+      "path": "skills/profiles/mow/autonomous-ai-agents/claude-code/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/autonomous-ai-agents/codex",
+      "path": "skills/profiles/mow/autonomous-ai-agents/codex/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/autonomous-ai-agents/computer-use",
+      "path": "skills/profiles/mow/autonomous-ai-agents/computer-use/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/autonomous-ai-agents/hermes-agent",
+      "path": "skills/profiles/mow/autonomous-ai-agents/hermes-agent/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/autonomous-ai-agents/opencode",
+      "path": "skills/profiles/mow/autonomous-ai-agents/opencode/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/autonomous-ai-agents/paperclip-controller",
+      "path": "skills/profiles/mow/autonomous-ai-agents/paperclip-controller/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/business/create-business",
+      "path": "skills/profiles/mow/business/create-business/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/business/grow-business",
+      "path": "skills/profiles/mow/business/grow-business/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/claude-code-imports/a11y-audit",
+      "path": "skills/profiles/mow/claude-code-imports/a11y-audit/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/claude-code-imports/ab-test-setup",
+      "path": "skills/profiles/mow/claude-code-imports/ab-test-setup/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/claude-code-imports/ab-testing",
+      "path": "skills/profiles/mow/claude-code-imports/ab-testing/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/claude-code-imports/ad-creative",
+      "path": "skills/profiles/mow/claude-code-imports/ad-creative/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/claude-code-imports/adversarial-reviewer",
+      "path": "skills/profiles/mow/claude-code-imports/adversarial-reviewer/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/claude-code-imports/agent-decision-receipts",
+      "path": "skills/profiles/mow/claude-code-imports/agent-decision-receipts/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/claude-code-imports/agent-designer",
+      "path": "skills/profiles/mow/claude-code-imports/agent-designer/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/claude-code-imports/agent-protocol",
+      "path": "skills/profiles/mow/claude-code-imports/agent-protocol/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/claude-code-imports/agent-workflow-designer",
+      "path": "skills/profiles/mow/claude-code-imports/agent-workflow-designer/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/claude-code-imports/agenthub",
+      "path": "skills/profiles/mow/claude-code-imports/agenthub/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/claude-code-imports/agile-product-owner",
+      "path": "skills/profiles/mow/claude-code-imports/agile-product-owner/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/claude-code-imports/ai-act-readiness",
+      "path": "skills/profiles/mow/claude-code-imports/ai-act-readiness/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/claude-code-imports/ai-second-brain",
+      "path": "skills/profiles/mow/claude-code-imports/ai-second-brain/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/claude-code-imports/ai-security",
+      "path": "skills/profiles/mow/claude-code-imports/ai-security/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/claude-code-imports/aims-audit",
+      "path": "skills/profiles/mow/claude-code-imports/aims-audit/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/claude-code-imports/analytics",
+      "path": "skills/profiles/mow/claude-code-imports/analytics/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/claude-code-imports/analytics-dashboard",
+      "path": "skills/profiles/mow/claude-code-imports/analytics-dashboard/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/claude-code-imports/analytics-tracking",
+      "path": "skills/profiles/mow/claude-code-imports/analytics-tracking/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/claude-code-imports/andreessen",
+      "path": "skills/profiles/mow/claude-code-imports/andreessen/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/claude-code-imports/api-design-reviewer",
+      "path": "skills/profiles/mow/claude-code-imports/api-design-reviewer/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/claude-code-imports/api-test-suite-builder",
+      "path": "skills/profiles/mow/claude-code-imports/api-test-suite-builder/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/claude-code-imports/app-store-optimization",
+      "path": "skills/profiles/mow/claude-code-imports/app-store-optimization/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/claude-code-imports/apple-hig-expert",
+      "path": "skills/profiles/mow/claude-code-imports/apple-hig-expert/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/claude-code-imports/arquiteto-de-empresa",
+      "path": "skills/profiles/mow/claude-code-imports/arquiteto-de-empresa/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/claude-code-imports/atlassian-admin",
+      "path": "skills/profiles/mow/claude-code-imports/atlassian-admin/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/claude-code-imports/atlassian-templates",
+      "path": "skills/profiles/mow/claude-code-imports/atlassian-templates/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/claude-code-imports/autoplan",
+      "path": "skills/profiles/mow/claude-code-imports/autoplan/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/claude-code-imports/autoresearch-agent",
+      "path": "skills/profiles/mow/claude-code-imports/autoresearch-agent/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/claude-code-imports/aws-solution-architect",
+      "path": "skills/profiles/mow/claude-code-imports/aws-solution-architect/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/claude-code-imports/azure-cloud-architect",
+      "path": "skills/profiles/mow/claude-code-imports/azure-cloud-architect/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/claude-code-imports/behuman",
+      "path": "skills/profiles/mow/claude-code-imports/behuman/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/claude-code-imports/benchmark",
+      "path": "skills/profiles/mow/claude-code-imports/benchmark/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/claude-code-imports/benchmark-models",
+      "path": "skills/profiles/mow/claude-code-imports/benchmark-models/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/claude-code-imports/board",
+      "path": "skills/profiles/mow/claude-code-imports/board/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/claude-code-imports/board-deck-builder",
+      "path": "skills/profiles/mow/claude-code-imports/board-deck-builder/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/claude-code-imports/board-meeting",
+      "path": "skills/profiles/mow/claude-code-imports/board-meeting/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/claude-code-imports/board-prep",
+      "path": "skills/profiles/mow/claude-code-imports/board-prep/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/claude-code-imports/boardroom",
+      "path": "skills/profiles/mow/claude-code-imports/boardroom/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/claude-code-imports/brand-guidelines",
+      "path": "skills/profiles/mow/claude-code-imports/brand-guidelines/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/claude-code-imports/brandkit",
+      "path": "skills/profiles/mow/claude-code-imports/brandkit/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/claude-code-imports/brief",
+      "path": "skills/profiles/mow/claude-code-imports/brief/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/claude-code-imports/browse",
+      "path": "skills/profiles/mow/claude-code-imports/browse/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/claude-code-imports/browser-automation",
+      "path": "skills/profiles/mow/claude-code-imports/browser-automation/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/claude-code-imports/browserstack",
+      "path": "skills/profiles/mow/claude-code-imports/browserstack/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/claude-code-imports/business-growth-skills",
+      "path": "skills/profiles/mow/claude-code-imports/business-growth-skills/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/claude-code-imports/business-investment-advisor",
+      "path": "skills/profiles/mow/claude-code-imports/business-investment-advisor/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/claude-code-imports/business-operations-skills",
+      "path": "skills/profiles/mow/claude-code-imports/business-operations-skills/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/claude-code-imports/c-level-agents",
+      "path": "skills/profiles/mow/claude-code-imports/c-level-agents/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/claude-code-imports/c-level-skills",
+      "path": "skills/profiles/mow/claude-code-imports/c-level-skills/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/claude-code-imports/caio-review",
+      "path": "skills/profiles/mow/claude-code-imports/caio-review/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/claude-code-imports/campaign-analytics",
+      "path": "skills/profiles/mow/claude-code-imports/campaign-analytics/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/claude-code-imports/canary",
+      "path": "skills/profiles/mow/claude-code-imports/canary/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/claude-code-imports/capa-officer",
+      "path": "skills/profiles/mow/claude-code-imports/capa-officer/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/claude-code-imports/capacity-planner",
+      "path": "skills/profiles/mow/claude-code-imports/capacity-planner/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/claude-code-imports/capture",
+      "path": "skills/profiles/mow/claude-code-imports/capture/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/claude-code-imports/careful",
+      "path": "skills/profiles/mow/claude-code-imports/careful/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/claude-code-imports/caveman",
+      "path": "skills/profiles/mow/claude-code-imports/caveman/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/claude-code-imports/cco-review",
+      "path": "skills/profiles/mow/claude-code-imports/cco-review/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/claude-code-imports/cdo-review",
+      "path": "skills/profiles/mow/claude-code-imports/cdo-review/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/claude-code-imports/cfo-review",
+      "path": "skills/profiles/mow/claude-code-imports/cfo-review/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/claude-code-imports/challenge",
+      "path": "skills/profiles/mow/claude-code-imports/challenge/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/claude-code-imports/change-management",
+      "path": "skills/profiles/mow/claude-code-imports/change-management/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/claude-code-imports/changelog-generator",
+      "path": "skills/profiles/mow/claude-code-imports/changelog-generator/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/claude-code-imports/channel-economics",
+      "path": "skills/profiles/mow/claude-code-imports/channel-economics/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/claude-code-imports/chaos-engineering",
+      "path": "skills/profiles/mow/claude-code-imports/chaos-engineering/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/claude-code-imports/chief-of-staff",
+      "path": "skills/profiles/mow/claude-code-imports/chief-of-staff/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/claude-code-imports/churn-prevention",
+      "path": "skills/profiles/mow/claude-code-imports/churn-prevention/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/claude-code-imports/ci-cd-pipeline-builder",
+      "path": "skills/profiles/mow/claude-code-imports/ci-cd-pipeline-builder/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/claude-code-imports/ciso-review",
+      "path": "skills/profiles/mow/claude-code-imports/ciso-review/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/claude-code-imports/claude-coach",
+      "path": "skills/profiles/mow/claude-code-imports/claude-coach/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/claude-code-imports/clinical-research",
+      "path": "skills/profiles/mow/claude-code-imports/clinical-research/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/claude-code-imports/cloud-security",
+      "path": "skills/profiles/mow/claude-code-imports/cloud-security/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/claude-code-imports/cmo-review",
+      "path": "skills/profiles/mow/claude-code-imports/cmo-review/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/claude-code-imports/co-marketing",
+      "path": "skills/profiles/mow/claude-code-imports/co-marketing/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/claude-code-imports/code-reviewer",
+      "path": "skills/profiles/mow/claude-code-imports/code-reviewer/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/claude-code-imports/code-to-prd",
+      "path": "skills/profiles/mow/claude-code-imports/code-to-prd/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/claude-code-imports/code-tour",
+      "path": "skills/profiles/mow/claude-code-imports/code-tour/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/claude-code-imports/codebase-memory",
+      "path": "skills/profiles/mow/claude-code-imports/codebase-memory/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/claude-code-imports/codebase-onboarding",
+      "path": "skills/profiles/mow/claude-code-imports/codebase-onboarding/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/claude-code-imports/codex",
+      "path": "skills/profiles/mow/claude-code-imports/codex/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/claude-code-imports/cold-email",
+      "path": "skills/profiles/mow/claude-code-imports/cold-email/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/claude-code-imports/collab-proof",
+      "path": "skills/profiles/mow/claude-code-imports/collab-proof/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/claude-code-imports/commercial-forecaster",
+      "path": "skills/profiles/mow/claude-code-imports/commercial-forecaster/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/claude-code-imports/commercial-policy",
+      "path": "skills/profiles/mow/claude-code-imports/commercial-policy/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/claude-code-imports/commercial-skills",
+      "path": "skills/profiles/mow/claude-code-imports/commercial-skills/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/claude-code-imports/community-marketing",
+      "path": "skills/profiles/mow/claude-code-imports/community-marketing/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/claude-code-imports/company-os",
+      "path": "skills/profiles/mow/claude-code-imports/company-os/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/claude-code-imports/competitive-intel",
+      "path": "skills/profiles/mow/claude-code-imports/competitive-intel/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/claude-code-imports/competitive-teardown",
+      "path": "skills/profiles/mow/claude-code-imports/competitive-teardown/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/claude-code-imports/competitor-alternatives",
+      "path": "skills/profiles/mow/claude-code-imports/competitor-alternatives/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/claude-code-imports/competitor-profiling",
+      "path": "skills/profiles/mow/claude-code-imports/competitor-profiling/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/claude-code-imports/compliance-os",
+      "path": "skills/profiles/mow/claude-code-imports/compliance-os/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/claude-code-imports/compliance-readiness",
+      "path": "skills/profiles/mow/claude-code-imports/compliance-readiness/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/claude-code-imports/confluence-expert",
+      "path": "skills/profiles/mow/claude-code-imports/confluence-expert/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/claude-code-imports/content-matrix",
+      "path": "skills/profiles/mow/claude-code-imports/content-matrix/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/claude-code-imports/content-strategy",
+      "path": "skills/profiles/mow/claude-code-imports/content-strategy/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/claude-code-imports/context-engine",
+      "path": "skills/profiles/mow/claude-code-imports/context-engine/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/claude-code-imports/context-restore",
+      "path": "skills/profiles/mow/claude-code-imports/context-restore/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/claude-code-imports/context-save",
+      "path": "skills/profiles/mow/claude-code-imports/context-save/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/claude-code-imports/contract-and-proposal-writer",
+      "path": "skills/profiles/mow/claude-code-imports/contract-and-proposal-writer/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/claude-code-imports/copy-editing",
+      "path": "skills/profiles/mow/claude-code-imports/copy-editing/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/claude-code-imports/copywriting",
+      "path": "skills/profiles/mow/claude-code-imports/copywriting/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/claude-code-imports/coverage",
+      "path": "skills/profiles/mow/claude-code-imports/coverage/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/claude-code-imports/cpo-review",
+      "path": "skills/profiles/mow/claude-code-imports/cpo-review/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/claude-code-imports/cro",
+      "path": "skills/profiles/mow/claude-code-imports/cro/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/claude-code-imports/cro-review",
+      "path": "skills/profiles/mow/claude-code-imports/cro-review/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/claude-code-imports/cross-eval",
+      "path": "skills/profiles/mow/claude-code-imports/cross-eval/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/claude-code-imports/cs-onboard",
+      "path": "skills/profiles/mow/claude-code-imports/cs-onboard/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/claude-code-imports/cso",
+      "path": "skills/profiles/mow/claude-code-imports/cso/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/claude-code-imports/cto-review",
+      "path": "skills/profiles/mow/claude-code-imports/cto-review/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/claude-code-imports/culture-architect",
+      "path": "skills/profiles/mow/claude-code-imports/culture-architect/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/claude-code-imports/customer-research",
+      "path": "skills/profiles/mow/claude-code-imports/customer-research/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/claude-code-imports/customer-success-manager",
+      "path": "skills/profiles/mow/claude-code-imports/customer-success-manager/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/claude-code-imports/data-quality-auditor",
+      "path": "skills/profiles/mow/claude-code-imports/data-quality-auditor/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/claude-code-imports/database-designer",
+      "path": "skills/profiles/mow/claude-code-imports/database-designer/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/claude-code-imports/database-schema-designer",
+      "path": "skills/profiles/mow/claude-code-imports/database-schema-designer/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/claude-code-imports/deal-desk",
+      "path": "skills/profiles/mow/claude-code-imports/deal-desk/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/claude-code-imports/decide",
+      "path": "skills/profiles/mow/claude-code-imports/decide/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/claude-code-imports/decision-logger",
+      "path": "skills/profiles/mow/claude-code-imports/decision-logger/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/claude-code-imports/deep-research",
+      "path": "skills/profiles/mow/claude-code-imports/deep-research/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/claude-code-imports/demo-video",
+      "path": "skills/profiles/mow/claude-code-imports/demo-video/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/claude-code-imports/dependency-auditor",
+      "path": "skills/profiles/mow/claude-code-imports/dependency-auditor/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/claude-code-imports/design-consultation",
+      "path": "skills/profiles/mow/claude-code-imports/design-consultation/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/claude-code-imports/design-html",
+      "path": "skills/profiles/mow/claude-code-imports/design-html/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/claude-code-imports/design-review",
+      "path": "skills/profiles/mow/claude-code-imports/design-review/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/claude-code-imports/design-shotgun",
+      "path": "skills/profiles/mow/claude-code-imports/design-shotgun/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/claude-code-imports/design-taste-frontend",
+      "path": "skills/profiles/mow/claude-code-imports/design-taste-frontend/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/claude-code-imports/devex-review",
+      "path": "skills/profiles/mow/claude-code-imports/devex-review/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/claude-code-imports/directory-submissions",
+      "path": "skills/profiles/mow/claude-code-imports/directory-submissions/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/claude-code-imports/docker-development",
+      "path": "skills/profiles/mow/claude-code-imports/docker-development/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/claude-code-imports/document-generate",
+      "path": "skills/profiles/mow/claude-code-imports/document-generate/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/claude-code-imports/document-release",
+      "path": "skills/profiles/mow/claude-code-imports/document-release/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/claude-code-imports/dossier",
+      "path": "skills/profiles/mow/claude-code-imports/dossier/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/claude-code-imports/email-sequence",
+      "path": "skills/profiles/mow/claude-code-imports/email-sequence/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/claude-code-imports/email-template-builder",
+      "path": "skills/profiles/mow/claude-code-imports/email-template-builder/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/claude-code-imports/emails",
+      "path": "skills/profiles/mow/claude-code-imports/emails/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/claude-code-imports/engineering-advanced-skills",
+      "path": "skills/profiles/mow/claude-code-imports/engineering-advanced-skills/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/claude-code-imports/engineering-skills",
+      "path": "skills/profiles/mow/claude-code-imports/engineering-skills/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/claude-code-imports/env-secrets-manager",
+      "path": "skills/profiles/mow/claude-code-imports/env-secrets-manager/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/claude-code-imports/epic-design",
+      "path": "skills/profiles/mow/claude-code-imports/epic-design/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/claude-code-imports/eu-ai-act-specialist",
+      "path": "skills/profiles/mow/claude-code-imports/eu-ai-act-specialist/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/claude-code-imports/eval",
+      "path": "skills/profiles/mow/claude-code-imports/eval/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/claude-code-imports/execute",
+      "path": "skills/profiles/mow/claude-code-imports/execute/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/claude-code-imports/executive-mentor",
+      "path": "skills/profiles/mow/claude-code-imports/executive-mentor/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/claude-code-imports/experiment-designer",
+      "path": "skills/profiles/mow/claude-code-imports/experiment-designer/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/claude-code-imports/extract",
+      "path": "skills/profiles/mow/claude-code-imports/extract/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/claude-code-imports/fda-consultant-specialist",
+      "path": "skills/profiles/mow/claude-code-imports/fda-consultant-specialist/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/claude-code-imports/fda-qsr-audit-prep",
+      "path": "skills/profiles/mow/claude-code-imports/fda-qsr-audit-prep/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/claude-code-imports/feature-flags-architect",
+      "path": "skills/profiles/mow/claude-code-imports/feature-flags-architect/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/claude-code-imports/finance-skills",
+      "path": "skills/profiles/mow/claude-code-imports/finance-skills/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/claude-code-imports/financial-analyst",
+      "path": "skills/profiles/mow/claude-code-imports/financial-analyst/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/claude-code-imports/fix",
+      "path": "skills/profiles/mow/claude-code-imports/fix/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/claude-code-imports/focused-fix",
+      "path": "skills/profiles/mow/claude-code-imports/focused-fix/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/claude-code-imports/form-cro",
+      "path": "skills/profiles/mow/claude-code-imports/form-cro/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/claude-code-imports/founder-coach",
+      "path": "skills/profiles/mow/claude-code-imports/founder-coach/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/claude-code-imports/founder-mode",
+      "path": "skills/profiles/mow/claude-code-imports/founder-mode/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/claude-code-imports/free-tool-strategy",
+      "path": "skills/profiles/mow/claude-code-imports/free-tool-strategy/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/claude-code-imports/freeze",
+      "path": "skills/profiles/mow/claude-code-imports/freeze/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/claude-code-imports/full-output-enforcement",
+      "path": "skills/profiles/mow/claude-code-imports/full-output-enforcement/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/claude-code-imports/full-page-screenshot",
+      "path": "skills/profiles/mow/claude-code-imports/full-page-screenshot/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/claude-code-imports/gc-review",
+      "path": "skills/profiles/mow/claude-code-imports/gc-review/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/claude-code-imports/gcp-cloud-architect",
+      "path": "skills/profiles/mow/claude-code-imports/gcp-cloud-architect/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/claude-code-imports/gdpr-audit-prep",
+      "path": "skills/profiles/mow/claude-code-imports/gdpr-audit-prep/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/claude-code-imports/gdpr-dsgvo-expert",
+      "path": "skills/profiles/mow/claude-code-imports/gdpr-dsgvo-expert/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/claude-code-imports/gemini-carousel",
+      "path": "skills/profiles/mow/claude-code-imports/gemini-carousel/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/claude-code-imports/gemini-infographic",
+      "path": "skills/profiles/mow/claude-code-imports/gemini-infographic/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/claude-code-imports/generate",
+      "path": "skills/profiles/mow/claude-code-imports/generate/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/claude-code-imports/git-worktree-manager",
+      "path": "skills/profiles/mow/claude-code-imports/git-worktree-manager/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/claude-code-imports/google-workspace-cli",
+      "path": "skills/profiles/mow/claude-code-imports/google-workspace-cli/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/claude-code-imports/gpt-taste",
+      "path": "skills/profiles/mow/claude-code-imports/gpt-taste/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/claude-code-imports/grants",
+      "path": "skills/profiles/mow/claude-code-imports/grants/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/claude-code-imports/graphic-designer",
+      "path": "skills/profiles/mow/claude-code-imports/graphic-designer/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/claude-code-imports/grill-me",
+      "path": "skills/profiles/mow/claude-code-imports/grill-me/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/claude-code-imports/grill-with-docs",
+      "path": "skills/profiles/mow/claude-code-imports/grill-with-docs/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/claude-code-imports/gstack",
+      "path": "skills/profiles/mow/claude-code-imports/gstack/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/claude-code-imports/gstack/autoplan",
+      "path": "skills/profiles/mow/claude-code-imports/gstack/autoplan/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/claude-code-imports/gstack/benchmark",
+      "path": "skills/profiles/mow/claude-code-imports/gstack/benchmark/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/claude-code-imports/gstack/benchmark-models",
+      "path": "skills/profiles/mow/claude-code-imports/gstack/benchmark-models/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/claude-code-imports/gstack/browse",
+      "path": "skills/profiles/mow/claude-code-imports/gstack/browse/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/claude-code-imports/gstack/browser-skills/hackernews-frontpage",
+      "path": "skills/profiles/mow/claude-code-imports/gstack/browser-skills/hackernews-frontpage/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/claude-code-imports/gstack/canary",
+      "path": "skills/profiles/mow/claude-code-imports/gstack/canary/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/claude-code-imports/gstack/careful",
+      "path": "skills/profiles/mow/claude-code-imports/gstack/careful/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/claude-code-imports/gstack/codex",
+      "path": "skills/profiles/mow/claude-code-imports/gstack/codex/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/claude-code-imports/gstack/context-restore",
+      "path": "skills/profiles/mow/claude-code-imports/gstack/context-restore/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/claude-code-imports/gstack/context-save",
+      "path": "skills/profiles/mow/claude-code-imports/gstack/context-save/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/claude-code-imports/gstack/cso",
+      "path": "skills/profiles/mow/claude-code-imports/gstack/cso/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/claude-code-imports/gstack/design-consultation",
+      "path": "skills/profiles/mow/claude-code-imports/gstack/design-consultation/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/claude-code-imports/gstack/design-html",
+      "path": "skills/profiles/mow/claude-code-imports/gstack/design-html/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/claude-code-imports/gstack/design-review",
+      "path": "skills/profiles/mow/claude-code-imports/gstack/design-review/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/claude-code-imports/gstack/design-shotgun",
+      "path": "skills/profiles/mow/claude-code-imports/gstack/design-shotgun/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/claude-code-imports/gstack/devex-review",
+      "path": "skills/profiles/mow/claude-code-imports/gstack/devex-review/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/claude-code-imports/gstack/document-generate",
+      "path": "skills/profiles/mow/claude-code-imports/gstack/document-generate/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/claude-code-imports/gstack/document-release",
+      "path": "skills/profiles/mow/claude-code-imports/gstack/document-release/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/claude-code-imports/gstack/freeze",
+      "path": "skills/profiles/mow/claude-code-imports/gstack/freeze/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/claude-code-imports/gstack/gstack-upgrade",
+      "path": "skills/profiles/mow/claude-code-imports/gstack/gstack-upgrade/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/claude-code-imports/gstack/guard",
+      "path": "skills/profiles/mow/claude-code-imports/gstack/guard/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/claude-code-imports/gstack/health",
+      "path": "skills/profiles/mow/claude-code-imports/gstack/health/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/claude-code-imports/gstack/investigate",
+      "path": "skills/profiles/mow/claude-code-imports/gstack/investigate/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/claude-code-imports/gstack/ios-clean",
+      "path": "skills/profiles/mow/claude-code-imports/gstack/ios-clean/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/claude-code-imports/gstack/ios-design-review",
+      "path": "skills/profiles/mow/claude-code-imports/gstack/ios-design-review/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/claude-code-imports/gstack/ios-fix",
+      "path": "skills/profiles/mow/claude-code-imports/gstack/ios-fix/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/claude-code-imports/gstack/ios-qa",
+      "path": "skills/profiles/mow/claude-code-imports/gstack/ios-qa/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/claude-code-imports/gstack/ios-sync",
+      "path": "skills/profiles/mow/claude-code-imports/gstack/ios-sync/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/claude-code-imports/gstack/land-and-deploy",
+      "path": "skills/profiles/mow/claude-code-imports/gstack/land-and-deploy/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/claude-code-imports/gstack/landing-report",
+      "path": "skills/profiles/mow/claude-code-imports/gstack/landing-report/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/claude-code-imports/gstack/learn",
+      "path": "skills/profiles/mow/claude-code-imports/gstack/learn/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/claude-code-imports/gstack/make-pdf",
+      "path": "skills/profiles/mow/claude-code-imports/gstack/make-pdf/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/claude-code-imports/gstack/office-hours",
+      "path": "skills/profiles/mow/claude-code-imports/gstack/office-hours/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/claude-code-imports/gstack/open-gstack-browser",
+      "path": "skills/profiles/mow/claude-code-imports/gstack/open-gstack-browser/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/claude-code-imports/gstack/openclaw/skills/gstack-openclaw-ceo-review",
+      "path": "skills/profiles/mow/claude-code-imports/gstack/openclaw/skills/gstack-openclaw-ceo-review/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/claude-code-imports/gstack/openclaw/skills/gstack-openclaw-investigate",
+      "path": "skills/profiles/mow/claude-code-imports/gstack/openclaw/skills/gstack-openclaw-investigate/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/claude-code-imports/gstack/openclaw/skills/gstack-openclaw-office-hours",
+      "path": "skills/profiles/mow/claude-code-imports/gstack/openclaw/skills/gstack-openclaw-office-hours/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/claude-code-imports/gstack/openclaw/skills/gstack-openclaw-retro",
+      "path": "skills/profiles/mow/claude-code-imports/gstack/openclaw/skills/gstack-openclaw-retro/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/claude-code-imports/gstack/pair-agent",
+      "path": "skills/profiles/mow/claude-code-imports/gstack/pair-agent/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/claude-code-imports/gstack/plan-ceo-review",
+      "path": "skills/profiles/mow/claude-code-imports/gstack/plan-ceo-review/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/claude-code-imports/gstack/plan-design-review",
+      "path": "skills/profiles/mow/claude-code-imports/gstack/plan-design-review/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/claude-code-imports/gstack/plan-devex-review",
+      "path": "skills/profiles/mow/claude-code-imports/gstack/plan-devex-review/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/claude-code-imports/gstack/plan-eng-review",
+      "path": "skills/profiles/mow/claude-code-imports/gstack/plan-eng-review/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/claude-code-imports/gstack/plan-tune",
+      "path": "skills/profiles/mow/claude-code-imports/gstack/plan-tune/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/claude-code-imports/gstack/qa",
+      "path": "skills/profiles/mow/claude-code-imports/gstack/qa/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/claude-code-imports/gstack/qa-only",
+      "path": "skills/profiles/mow/claude-code-imports/gstack/qa-only/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/claude-code-imports/gstack/retro",
+      "path": "skills/profiles/mow/claude-code-imports/gstack/retro/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/claude-code-imports/gstack/review",
+      "path": "skills/profiles/mow/claude-code-imports/gstack/review/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/claude-code-imports/gstack/scrape",
+      "path": "skills/profiles/mow/claude-code-imports/gstack/scrape/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/claude-code-imports/gstack/setup-browser-cookies",
+      "path": "skills/profiles/mow/claude-code-imports/gstack/setup-browser-cookies/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/claude-code-imports/gstack/setup-deploy",
+      "path": "skills/profiles/mow/claude-code-imports/gstack/setup-deploy/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/claude-code-imports/gstack/setup-gbrain",
+      "path": "skills/profiles/mow/claude-code-imports/gstack/setup-gbrain/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/claude-code-imports/gstack/ship",
+      "path": "skills/profiles/mow/claude-code-imports/gstack/ship/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/claude-code-imports/gstack/skillify",
+      "path": "skills/profiles/mow/claude-code-imports/gstack/skillify/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/claude-code-imports/gstack/sync-gbrain",
+      "path": "skills/profiles/mow/claude-code-imports/gstack/sync-gbrain/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/claude-code-imports/gstack/unfreeze",
+      "path": "skills/profiles/mow/claude-code-imports/gstack/unfreeze/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/claude-code-imports/gstack-upgrade",
+      "path": "skills/profiles/mow/claude-code-imports/gstack-upgrade/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/claude-code-imports/guard",
+      "path": "skills/profiles/mow/claude-code-imports/guard/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/claude-code-imports/handoff",
+      "path": "skills/profiles/mow/claude-code-imports/handoff/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/claude-code-imports/hard-call",
+      "path": "skills/profiles/mow/claude-code-imports/hard-call/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/claude-code-imports/health",
+      "path": "skills/profiles/mow/claude-code-imports/health/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/claude-code-imports/helm-chart-builder",
+      "path": "skills/profiles/mow/claude-code-imports/helm-chart-builder/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/claude-code-imports/high-end-visual-design",
+      "path": "skills/profiles/mow/claude-code-imports/high-end-visual-design/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/claude-code-imports/hook-generator",
+      "path": "skills/profiles/mow/claude-code-imports/hook-generator/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/claude-code-imports/image",
+      "path": "skills/profiles/mow/claude-code-imports/image/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/claude-code-imports/image-to-code",
+      "path": "skills/profiles/mow/claude-code-imports/image-to-code/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/claude-code-imports/imagegen-frontend-mobile",
+      "path": "skills/profiles/mow/claude-code-imports/imagegen-frontend-mobile/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/claude-code-imports/imagegen-frontend-web",
+      "path": "skills/profiles/mow/claude-code-imports/imagegen-frontend-web/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/claude-code-imports/inbox-setup",
+      "path": "skills/profiles/mow/claude-code-imports/inbox-setup/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/claude-code-imports/inbox-triage",
+      "path": "skills/profiles/mow/claude-code-imports/inbox-triage/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/claude-code-imports/incident-commander",
+      "path": "skills/profiles/mow/claude-code-imports/incident-commander/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/claude-code-imports/incident-response",
+      "path": "skills/profiles/mow/claude-code-imports/incident-response/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/claude-code-imports/industrial-brutalist-ui",
+      "path": "skills/profiles/mow/claude-code-imports/industrial-brutalist-ui/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/claude-code-imports/information-security-manager-iso27001",
+      "path": "skills/profiles/mow/claude-code-imports/information-security-manager-iso27001/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/claude-code-imports/init",
+      "path": "skills/profiles/mow/claude-code-imports/init/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/claude-code-imports/internal-comms",
+      "path": "skills/profiles/mow/claude-code-imports/internal-comms/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/claude-code-imports/internal-narrative",
+      "path": "skills/profiles/mow/claude-code-imports/internal-narrative/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/claude-code-imports/interview-system-designer",
+      "path": "skills/profiles/mow/claude-code-imports/interview-system-designer/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/claude-code-imports/intl-expansion",
+      "path": "skills/profiles/mow/claude-code-imports/intl-expansion/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/claude-code-imports/investigate",
+      "path": "skills/profiles/mow/claude-code-imports/investigate/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/claude-code-imports/isms-audit-expert",
+      "path": "skills/profiles/mow/claude-code-imports/isms-audit-expert/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/claude-code-imports/iso13485-audit-prep",
+      "path": "skills/profiles/mow/claude-code-imports/iso13485-audit-prep/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/claude-code-imports/iso27001-audit-prep",
+      "path": "skills/profiles/mow/claude-code-imports/iso27001-audit-prep/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/claude-code-imports/iso42001-specialist",
+      "path": "skills/profiles/mow/claude-code-imports/iso42001-specialist/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/claude-code-imports/jira-expert",
+      "path": "skills/profiles/mow/claude-code-imports/jira-expert/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/claude-code-imports/karpathy-coder",
+      "path": "skills/profiles/mow/claude-code-imports/karpathy-coder/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/claude-code-imports/knowledge-ops",
+      "path": "skills/profiles/mow/claude-code-imports/knowledge-ops/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/claude-code-imports/kubernetes-operator",
+      "path": "skills/profiles/mow/claude-code-imports/kubernetes-operator/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/claude-code-imports/land-and-deploy",
+      "path": "skills/profiles/mow/claude-code-imports/land-and-deploy/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/claude-code-imports/landing",
+      "path": "skills/profiles/mow/claude-code-imports/landing/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/claude-code-imports/landing-page-generator",
+      "path": "skills/profiles/mow/claude-code-imports/landing-page-generator/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/claude-code-imports/landing-report",
+      "path": "skills/profiles/mow/claude-code-imports/landing-report/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/claude-code-imports/launch-strategy",
+      "path": "skills/profiles/mow/claude-code-imports/launch-strategy/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/claude-code-imports/lead-magnets",
+      "path": "skills/profiles/mow/claude-code-imports/lead-magnets/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/claude-code-imports/learn",
+      "path": "skills/profiles/mow/claude-code-imports/learn/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/claude-code-imports/litreview",
+      "path": "skills/profiles/mow/claude-code-imports/litreview/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/claude-code-imports/llm-cost-optimizer",
+      "path": "skills/profiles/mow/claude-code-imports/llm-cost-optimizer/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/claude-code-imports/llm-wiki",
+      "path": "skills/profiles/mow/claude-code-imports/llm-wiki/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/claude-code-imports/loop",
+      "path": "skills/profiles/mow/claude-code-imports/loop/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/claude-code-imports/loop-library",
+      "path": "skills/profiles/mow/claude-code-imports/loop-library/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/claude-code-imports/ma-playbook",
+      "path": "skills/profiles/mow/claude-code-imports/ma-playbook/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/claude-code-imports/make-pdf",
+      "path": "skills/profiles/mow/claude-code-imports/make-pdf/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/claude-code-imports/markdown-html-orchestrator",
+      "path": "skills/profiles/mow/claude-code-imports/markdown-html-orchestrator/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/claude-code-imports/market-research",
+      "path": "skills/profiles/mow/claude-code-imports/market-research/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/claude-code-imports/marketing-demand-acquisition",
+      "path": "skills/profiles/mow/claude-code-imports/marketing-demand-acquisition/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/claude-code-imports/marketing-skills",
+      "path": "skills/profiles/mow/claude-code-imports/marketing-skills/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/claude-code-imports/marketing-strategy-pmm",
+      "path": "skills/profiles/mow/claude-code-imports/marketing-strategy-pmm/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/claude-code-imports/mcp-server-builder",
+      "path": "skills/profiles/mow/claude-code-imports/mcp-server-builder/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/claude-code-imports/md-document",
+      "path": "skills/profiles/mow/claude-code-imports/md-document/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/claude-code-imports/md-review",
+      "path": "skills/profiles/mow/claude-code-imports/md-review/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/claude-code-imports/mdr-745-specialist",
+      "path": "skills/profiles/mow/claude-code-imports/mdr-745-specialist/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/claude-code-imports/meeting-analyzer",
+      "path": "skills/profiles/mow/claude-code-imports/meeting-analyzer/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/claude-code-imports/merge",
+      "path": "skills/profiles/mow/claude-code-imports/merge/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/claude-code-imports/migrate",
+      "path": "skills/profiles/mow/claude-code-imports/migrate/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/claude-code-imports/migration-architect",
+      "path": "skills/profiles/mow/claude-code-imports/migration-architect/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/claude-code-imports/minimalist-ui",
+      "path": "skills/profiles/mow/claude-code-imports/minimalist-ui/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/claude-code-imports/monorepo-navigator",
+      "path": "skills/profiles/mow/claude-code-imports/monorepo-navigator/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/claude-code-imports/ms365-tenant-manager",
+      "path": "skills/profiles/mow/claude-code-imports/ms365-tenant-manager/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/claude-code-imports/named-persona-adversarial-review",
+      "path": "skills/profiles/mow/claude-code-imports/named-persona-adversarial-review/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/claude-code-imports/newsletter-voice",
+      "path": "skills/profiles/mow/claude-code-imports/newsletter-voice/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/claude-code-imports/niche-research",
+      "path": "skills/profiles/mow/claude-code-imports/niche-research/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/claude-code-imports/notebooklm",
+      "path": "skills/profiles/mow/claude-code-imports/notebooklm/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/claude-code-imports/notebooklm-research",
+      "path": "skills/profiles/mow/claude-code-imports/notebooklm-research/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/claude-code-imports/observability-designer",
+      "path": "skills/profiles/mow/claude-code-imports/observability-designer/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/claude-code-imports/offers",
+      "path": "skills/profiles/mow/claude-code-imports/offers/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/claude-code-imports/office-hours",
+      "path": "skills/profiles/mow/claude-code-imports/office-hours/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/claude-code-imports/onboarding-cro",
+      "path": "skills/profiles/mow/claude-code-imports/onboarding-cro/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/claude-code-imports/open-gstack-browser",
+      "path": "skills/profiles/mow/claude-code-imports/open-gstack-browser/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/claude-code-imports/org-health-diagnostic",
+      "path": "skills/profiles/mow/claude-code-imports/org-health-diagnostic/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/claude-code-imports/page-cro",
+      "path": "skills/profiles/mow/claude-code-imports/page-cro/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/claude-code-imports/paid-ads",
+      "path": "skills/profiles/mow/claude-code-imports/paid-ads/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/claude-code-imports/pair-agent",
+      "path": "skills/profiles/mow/claude-code-imports/pair-agent/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/claude-code-imports/partnerships-architect",
+      "path": "skills/profiles/mow/claude-code-imports/partnerships-architect/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/claude-code-imports/patent",
+      "path": "skills/profiles/mow/claude-code-imports/patent/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/claude-code-imports/paywall-upgrade-cro",
+      "path": "skills/profiles/mow/claude-code-imports/paywall-upgrade-cro/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/claude-code-imports/performance-profiler",
+      "path": "skills/profiles/mow/claude-code-imports/performance-profiler/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/claude-code-imports/pinned-comment",
+      "path": "skills/profiles/mow/claude-code-imports/pinned-comment/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/claude-code-imports/plan-ceo-review",
+      "path": "skills/profiles/mow/claude-code-imports/plan-ceo-review/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/claude-code-imports/plan-design-review",
+      "path": "skills/profiles/mow/claude-code-imports/plan-design-review/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/claude-code-imports/plan-devex-review",
+      "path": "skills/profiles/mow/claude-code-imports/plan-devex-review/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/claude-code-imports/plan-eng-review",
+      "path": "skills/profiles/mow/claude-code-imports/plan-eng-review/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/claude-code-imports/plan-tune",
+      "path": "skills/profiles/mow/claude-code-imports/plan-tune/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/claude-code-imports/playwright-pro",
+      "path": "skills/profiles/mow/claude-code-imports/playwright-pro/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/claude-code-imports/pm-skills",
+      "path": "skills/profiles/mow/claude-code-imports/pm-skills/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/claude-code-imports/popup-cro",
+      "path": "skills/profiles/mow/claude-code-imports/popup-cro/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/claude-code-imports/post-formatter",
+      "path": "skills/profiles/mow/claude-code-imports/post-formatter/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/claude-code-imports/post-mortem",
+      "path": "skills/profiles/mow/claude-code-imports/post-mortem/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/claude-code-imports/post-scorer",
+      "path": "skills/profiles/mow/claude-code-imports/post-scorer/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/claude-code-imports/post-writer",
+      "path": "skills/profiles/mow/claude-code-imports/post-writer/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/claude-code-imports/postmortem",
+      "path": "skills/profiles/mow/claude-code-imports/postmortem/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/claude-code-imports/pr-review-expert",
+      "path": "skills/profiles/mow/claude-code-imports/pr-review-expert/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/claude-code-imports/pricing-strategist",
+      "path": "skills/profiles/mow/claude-code-imports/pricing-strategist/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/claude-code-imports/process-mapper",
+      "path": "skills/profiles/mow/claude-code-imports/process-mapper/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/claude-code-imports/procurement-optimizer",
+      "path": "skills/profiles/mow/claude-code-imports/procurement-optimizer/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/claude-code-imports/product-analytics",
+      "path": "skills/profiles/mow/claude-code-imports/product-analytics/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/claude-code-imports/product-discovery",
+      "path": "skills/profiles/mow/claude-code-imports/product-discovery/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/claude-code-imports/product-manager-toolkit",
+      "path": "skills/profiles/mow/claude-code-imports/product-manager-toolkit/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/claude-code-imports/product-marketing",
+      "path": "skills/profiles/mow/claude-code-imports/product-marketing/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/claude-code-imports/product-research",
+      "path": "skills/profiles/mow/claude-code-imports/product-research/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/claude-code-imports/product-skills",
+      "path": "skills/profiles/mow/claude-code-imports/product-skills/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/claude-code-imports/product-strategist",
+      "path": "skills/profiles/mow/claude-code-imports/product-strategist/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/claude-code-imports/profile-optimizer",
+      "path": "skills/profiles/mow/claude-code-imports/profile-optimizer/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/claude-code-imports/promote",
+      "path": "skills/profiles/mow/claude-code-imports/promote/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/claude-code-imports/prompt-engineer-toolkit",
+      "path": "skills/profiles/mow/claude-code-imports/prompt-engineer-toolkit/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/claude-code-imports/prompt-governance",
+      "path": "skills/profiles/mow/claude-code-imports/prompt-governance/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/claude-code-imports/prospecting",
+      "path": "skills/profiles/mow/claude-code-imports/prospecting/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/claude-code-imports/public-relations",
+      "path": "skills/profiles/mow/claude-code-imports/public-relations/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/claude-code-imports/pulse",
+      "path": "skills/profiles/mow/claude-code-imports/pulse/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/claude-code-imports/qa",
+      "path": "skills/profiles/mow/claude-code-imports/qa/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/claude-code-imports/qa-only",
+      "path": "skills/profiles/mow/claude-code-imports/qa-only/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/claude-code-imports/qms-audit-expert",
+      "path": "skills/profiles/mow/claude-code-imports/qms-audit-expert/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/claude-code-imports/quality-documentation-manager",
+      "path": "skills/profiles/mow/claude-code-imports/quality-documentation-manager/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/claude-code-imports/quality-manager-qmr",
+      "path": "skills/profiles/mow/claude-code-imports/quality-manager-qmr/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/claude-code-imports/quality-manager-qms-iso13485",
+      "path": "skills/profiles/mow/claude-code-imports/quality-manager-qms-iso13485/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/claude-code-imports/quote-post",
+      "path": "skills/profiles/mow/claude-code-imports/quote-post/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/claude-code-imports/ra-qm-skills",
+      "path": "skills/profiles/mow/claude-code-imports/ra-qm-skills/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/claude-code-imports/rag-architect",
+      "path": "skills/profiles/mow/claude-code-imports/rag-architect/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/claude-code-imports/red-team",
+      "path": "skills/profiles/mow/claude-code-imports/red-team/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/claude-code-imports/redesign-existing-projects",
+      "path": "skills/profiles/mow/claude-code-imports/redesign-existing-projects/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/claude-code-imports/reels-scripting",
+      "path": "skills/profiles/mow/claude-code-imports/reels-scripting/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/claude-code-imports/referral-program",
+      "path": "skills/profiles/mow/claude-code-imports/referral-program/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/claude-code-imports/reflect",
+      "path": "skills/profiles/mow/claude-code-imports/reflect/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/claude-code-imports/regulatory-affairs-head",
+      "path": "skills/profiles/mow/claude-code-imports/regulatory-affairs-head/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/claude-code-imports/remember",
+      "path": "skills/profiles/mow/claude-code-imports/remember/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/claude-code-imports/report",
+      "path": "skills/profiles/mow/claude-code-imports/report/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/claude-code-imports/research",
+      "path": "skills/profiles/mow/claude-code-imports/research/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/claude-code-imports/research-finance",
+      "path": "skills/profiles/mow/claude-code-imports/research-finance/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/claude-code-imports/research-ops-skills",
+      "path": "skills/profiles/mow/claude-code-imports/research-ops-skills/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/claude-code-imports/research-summarizer",
+      "path": "skills/profiles/mow/claude-code-imports/research-summarizer/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/claude-code-imports/resume",
+      "path": "skills/profiles/mow/claude-code-imports/resume/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/claude-code-imports/retro",
+      "path": "skills/profiles/mow/claude-code-imports/retro/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/claude-code-imports/revenue-operations",
+      "path": "skills/profiles/mow/claude-code-imports/revenue-operations/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/claude-code-imports/review",
+      "path": "skills/profiles/mow/claude-code-imports/review/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/claude-code-imports/revops",
+      "path": "skills/profiles/mow/claude-code-imports/revops/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/claude-code-imports/rfp-responder",
+      "path": "skills/profiles/mow/claude-code-imports/rfp-responder/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/claude-code-imports/risk-management-specialist",
+      "path": "skills/profiles/mow/claude-code-imports/risk-management-specialist/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/claude-code-imports/roadmap-communicator",
+      "path": "skills/profiles/mow/claude-code-imports/roadmap-communicator/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/claude-code-imports/roast",
+      "path": "skills/profiles/mow/claude-code-imports/roast/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/claude-code-imports/run",
+      "path": "skills/profiles/mow/claude-code-imports/run/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/claude-code-imports/runbook-generator",
+      "path": "skills/profiles/mow/claude-code-imports/runbook-generator/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/claude-code-imports/saas-metrics-coach",
+      "path": "skills/profiles/mow/claude-code-imports/saas-metrics-coach/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/claude-code-imports/saas-scaffolder",
+      "path": "skills/profiles/mow/claude-code-imports/saas-scaffolder/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/claude-code-imports/sales-enablement",
+      "path": "skills/profiles/mow/claude-code-imports/sales-enablement/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/claude-code-imports/sales-engineer",
+      "path": "skills/profiles/mow/claude-code-imports/sales-engineer/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/claude-code-imports/scenario-war-room",
+      "path": "skills/profiles/mow/claude-code-imports/scenario-war-room/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/claude-code-imports/schema-markup",
+      "path": "skills/profiles/mow/claude-code-imports/schema-markup/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/claude-code-imports/scrape",
+      "path": "skills/profiles/mow/claude-code-imports/scrape/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/claude-code-imports/scrum-master",
+      "path": "skills/profiles/mow/claude-code-imports/scrum-master/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/claude-code-imports/secrets-vault-manager",
+      "path": "skills/profiles/mow/claude-code-imports/secrets-vault-manager/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/claude-code-imports/security-guidance",
+      "path": "skills/profiles/mow/claude-code-imports/security-guidance/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/claude-code-imports/security-pen-testing",
+      "path": "skills/profiles/mow/claude-code-imports/security-pen-testing/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/claude-code-imports/self-eval",
+      "path": "skills/profiles/mow/claude-code-imports/self-eval/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/claude-code-imports/self-improving-agent",
+      "path": "skills/profiles/mow/claude-code-imports/self-improving-agent/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/claude-code-imports/senior-architect",
+      "path": "skills/profiles/mow/claude-code-imports/senior-architect/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/claude-code-imports/senior-backend",
+      "path": "skills/profiles/mow/claude-code-imports/senior-backend/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/claude-code-imports/senior-computer-vision",
+      "path": "skills/profiles/mow/claude-code-imports/senior-computer-vision/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/claude-code-imports/senior-data-engineer",
+      "path": "skills/profiles/mow/claude-code-imports/senior-data-engineer/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/claude-code-imports/senior-data-scientist",
+      "path": "skills/profiles/mow/claude-code-imports/senior-data-scientist/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/claude-code-imports/senior-devops",
+      "path": "skills/profiles/mow/claude-code-imports/senior-devops/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/claude-code-imports/senior-frontend",
+      "path": "skills/profiles/mow/claude-code-imports/senior-frontend/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/claude-code-imports/senior-fullstack",
+      "path": "skills/profiles/mow/claude-code-imports/senior-fullstack/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/claude-code-imports/senior-ml-engineer",
+      "path": "skills/profiles/mow/claude-code-imports/senior-ml-engineer/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/claude-code-imports/senior-pm",
+      "path": "skills/profiles/mow/claude-code-imports/senior-pm/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/claude-code-imports/senior-prompt-engineer",
+      "path": "skills/profiles/mow/claude-code-imports/senior-prompt-engineer/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/claude-code-imports/senior-qa",
+      "path": "skills/profiles/mow/claude-code-imports/senior-qa/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/claude-code-imports/senior-secops",
+      "path": "skills/profiles/mow/claude-code-imports/senior-secops/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/claude-code-imports/senior-security",
+      "path": "skills/profiles/mow/claude-code-imports/senior-security/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/claude-code-imports/seo",
+      "path": "skills/profiles/mow/claude-code-imports/seo/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/claude-code-imports/seo-audit",
+      "path": "skills/profiles/mow/claude-code-imports/seo-audit/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/claude-code-imports/seo-backlinks",
+      "path": "skills/profiles/mow/claude-code-imports/seo-backlinks/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/claude-code-imports/seo-cluster",
+      "path": "skills/profiles/mow/claude-code-imports/seo-cluster/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/claude-code-imports/seo-competitor-pages",
+      "path": "skills/profiles/mow/claude-code-imports/seo-competitor-pages/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/claude-code-imports/seo-content",
+      "path": "skills/profiles/mow/claude-code-imports/seo-content/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/claude-code-imports/seo-content-brief",
+      "path": "skills/profiles/mow/claude-code-imports/seo-content-brief/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/claude-code-imports/seo-dataforseo",
+      "path": "skills/profiles/mow/claude-code-imports/seo-dataforseo/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/claude-code-imports/seo-drift",
+      "path": "skills/profiles/mow/claude-code-imports/seo-drift/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/claude-code-imports/seo-ecommerce",
+      "path": "skills/profiles/mow/claude-code-imports/seo-ecommerce/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/claude-code-imports/seo-flow",
+      "path": "skills/profiles/mow/claude-code-imports/seo-flow/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/claude-code-imports/seo-geo",
+      "path": "skills/profiles/mow/claude-code-imports/seo-geo/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/claude-code-imports/seo-google",
+      "path": "skills/profiles/mow/claude-code-imports/seo-google/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/claude-code-imports/seo-hreflang",
+      "path": "skills/profiles/mow/claude-code-imports/seo-hreflang/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/claude-code-imports/seo-image-gen",
+      "path": "skills/profiles/mow/claude-code-imports/seo-image-gen/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/claude-code-imports/seo-images",
+      "path": "skills/profiles/mow/claude-code-imports/seo-images/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/claude-code-imports/seo-local",
+      "path": "skills/profiles/mow/claude-code-imports/seo-local/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/claude-code-imports/seo-maps",
+      "path": "skills/profiles/mow/claude-code-imports/seo-maps/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/claude-code-imports/seo-page",
+      "path": "skills/profiles/mow/claude-code-imports/seo-page/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/claude-code-imports/seo-plan",
+      "path": "skills/profiles/mow/claude-code-imports/seo-plan/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/claude-code-imports/seo-programmatic",
+      "path": "skills/profiles/mow/claude-code-imports/seo-programmatic/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/claude-code-imports/seo-schema",
+      "path": "skills/profiles/mow/claude-code-imports/seo-schema/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/claude-code-imports/seo-sitemap",
+      "path": "skills/profiles/mow/claude-code-imports/seo-sitemap/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/claude-code-imports/seo-sxo",
+      "path": "skills/profiles/mow/claude-code-imports/seo-sxo/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/claude-code-imports/seo-technical",
+      "path": "skills/profiles/mow/claude-code-imports/seo-technical/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/claude-code-imports/setup",
+      "path": "skills/profiles/mow/claude-code-imports/setup/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/claude-code-imports/setup-browser-cookies",
+      "path": "skills/profiles/mow/claude-code-imports/setup-browser-cookies/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/claude-code-imports/setup-deploy",
+      "path": "skills/profiles/mow/claude-code-imports/setup-deploy/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/claude-code-imports/setup-gbrain",
+      "path": "skills/profiles/mow/claude-code-imports/setup-gbrain/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/claude-code-imports/ship",
+      "path": "skills/profiles/mow/claude-code-imports/ship/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/claude-code-imports/ship-gate",
+      "path": "skills/profiles/mow/claude-code-imports/ship-gate/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/claude-code-imports/signup-flow-cro",
+      "path": "skills/profiles/mow/claude-code-imports/signup-flow-cro/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/claude-code-imports/site-architecture",
+      "path": "skills/profiles/mow/claude-code-imports/site-architecture/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/claude-code-imports/skill-security-auditor",
+      "path": "skills/profiles/mow/claude-code-imports/skill-security-auditor/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/claude-code-imports/skill-tester",
+      "path": "skills/profiles/mow/claude-code-imports/skill-tester/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/claude-code-imports/skill-tester/assets/sample-skill",
+      "path": "skills/profiles/mow/claude-code-imports/skill-tester/assets/sample-skill/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/claude-code-imports/skillify",
+      "path": "skills/profiles/mow/claude-code-imports/skillify/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/claude-code-imports/slo-architect",
+      "path": "skills/profiles/mow/claude-code-imports/slo-architect/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/claude-code-imports/sms",
+      "path": "skills/profiles/mow/claude-code-imports/sms/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/claude-code-imports/snowflake-development",
+      "path": "skills/profiles/mow/claude-code-imports/snowflake-development/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/claude-code-imports/soc2-audit-prep",
+      "path": "skills/profiles/mow/claude-code-imports/soc2-audit-prep/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/claude-code-imports/soc2-compliance",
+      "path": "skills/profiles/mow/claude-code-imports/soc2-compliance/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/claude-code-imports/social-media-analyzer",
+      "path": "skills/profiles/mow/claude-code-imports/social-media-analyzer/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/claude-code-imports/social-media-manager",
+      "path": "skills/profiles/mow/claude-code-imports/social-media-manager/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/claude-code-imports/spawn",
+      "path": "skills/profiles/mow/claude-code-imports/spawn/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/claude-code-imports/spec-driven-workflow",
+      "path": "skills/profiles/mow/claude-code-imports/spec-driven-workflow/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/claude-code-imports/spec-to-repo",
+      "path": "skills/profiles/mow/claude-code-imports/spec-to-repo/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/claude-code-imports/sql-database-assistant",
+      "path": "skills/profiles/mow/claude-code-imports/sql-database-assistant/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/claude-code-imports/statistical-analyst",
+      "path": "skills/profiles/mow/claude-code-imports/statistical-analyst/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/claude-code-imports/status",
+      "path": "skills/profiles/mow/claude-code-imports/status/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/claude-code-imports/stitch-design-taste",
+      "path": "skills/profiles/mow/claude-code-imports/stitch-design-taste/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/claude-code-imports/strategic-alignment",
+      "path": "skills/profiles/mow/claude-code-imports/strategic-alignment/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/claude-code-imports/stress-test",
+      "path": "skills/profiles/mow/claude-code-imports/stress-test/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/claude-code-imports/stripe-integration-expert",
+      "path": "skills/profiles/mow/claude-code-imports/stripe-integration-expert/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/claude-code-imports/syllabus",
+      "path": "skills/profiles/mow/claude-code-imports/syllabus/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/claude-code-imports/sync-gbrain",
+      "path": "skills/profiles/mow/claude-code-imports/sync-gbrain/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/claude-code-imports/task-observer",
+      "path": "skills/profiles/mow/claude-code-imports/task-observer/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/claude-code-imports/tc-tracker",
+      "path": "skills/profiles/mow/claude-code-imports/tc-tracker/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/claude-code-imports/tdd-guide",
+      "path": "skills/profiles/mow/claude-code-imports/tdd-guide/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/claude-code-imports/team-communications",
+      "path": "skills/profiles/mow/claude-code-imports/team-communications/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/claude-code-imports/tech-debt-tracker",
+      "path": "skills/profiles/mow/claude-code-imports/tech-debt-tracker/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/claude-code-imports/tech-stack-evaluator",
+      "path": "skills/profiles/mow/claude-code-imports/tech-stack-evaluator/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/claude-code-imports/terraform-patterns",
+      "path": "skills/profiles/mow/claude-code-imports/terraform-patterns/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/claude-code-imports/testrail",
+      "path": "skills/profiles/mow/claude-code-imports/testrail/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/claude-code-imports/threat-detection",
+      "path": "skills/profiles/mow/claude-code-imports/threat-detection/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/claude-code-imports/ui-design-system",
+      "path": "skills/profiles/mow/claude-code-imports/ui-design-system/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/claude-code-imports/unfreeze",
+      "path": "skills/profiles/mow/claude-code-imports/unfreeze/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/claude-code-imports/universal-scraping-architect",
+      "path": "skills/profiles/mow/claude-code-imports/universal-scraping-architect/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/claude-code-imports/ux-researcher-designer",
+      "path": "skills/profiles/mow/claude-code-imports/ux-researcher-designer/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/claude-code-imports/vendor-management",
+      "path": "skills/profiles/mow/claude-code-imports/vendor-management/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/claude-code-imports/video",
+      "path": "skills/profiles/mow/claude-code-imports/video/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/claude-code-imports/video-content-strategist",
+      "path": "skills/profiles/mow/claude-code-imports/video-content-strategist/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/claude-code-imports/video-use",
+      "path": "skills/profiles/mow/claude-code-imports/video-use/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/claude-code-imports/video-use/skills/manim-video",
+      "path": "skills/profiles/mow/claude-code-imports/video-use/skills/manim-video/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/claude-code-imports/voice-builder",
+      "path": "skills/profiles/mow/claude-code-imports/voice-builder/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/claude-code-imports/vpe-advisor",
+      "path": "skills/profiles/mow/claude-code-imports/vpe-advisor/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/claude-code-imports/vpe-review",
+      "path": "skills/profiles/mow/claude-code-imports/vpe-review/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/claude-code-imports/webinar-marketing",
+      "path": "skills/profiles/mow/claude-code-imports/webinar-marketing/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/claude-code-imports/workflow-builder",
+      "path": "skills/profiles/mow/claude-code-imports/workflow-builder/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/claude-code-imports/write-a-skill",
+      "path": "skills/profiles/mow/claude-code-imports/write-a-skill/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/claude-code-imports/x-twitter-growth",
+      "path": "skills/profiles/mow/claude-code-imports/x-twitter-growth/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/claude-code-imports/youtube-full",
+      "path": "skills/profiles/mow/claude-code-imports/youtube-full/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/claude-code-imports/youtube-thumbnail",
+      "path": "skills/profiles/mow/claude-code-imports/youtube-thumbnail/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/claude-code-imports/zero-hallucination-coder",
+      "path": "skills/profiles/mow/claude-code-imports/zero-hallucination-coder/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/creative/architecture-diagram",
+      "path": "skills/profiles/mow/creative/architecture-diagram/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/creative/ascii-video",
+      "path": "skills/profiles/mow/creative/ascii-video/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/creative/baoyu-infographic",
+      "path": "skills/profiles/mow/creative/baoyu-infographic/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/creative/claude-design",
+      "path": "skills/profiles/mow/creative/claude-design/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/creative/design-md",
+      "path": "skills/profiles/mow/creative/design-md/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/creative/humanizer",
+      "path": "skills/profiles/mow/creative/humanizer/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/creative/manim-video",
+      "path": "skills/profiles/mow/creative/manim-video/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/creative/p5js",
+      "path": "skills/profiles/mow/creative/p5js/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/creative/popular-web-designs",
+      "path": "skills/profiles/mow/creative/popular-web-designs/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/creative/songwriting-and-ai-music",
+      "path": "skills/profiles/mow/creative/songwriting-and-ai-music/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/devops/local-service-setup",
+      "path": "skills/profiles/mow/devops/local-service-setup/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/devops/omniroute-gateway-windows",
+      "path": "skills/profiles/mow/devops/omniroute-gateway-windows/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/devops/sdlc-review",
+      "path": "skills/profiles/mow/devops/sdlc-review/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/email/email-inbox-triage",
+      "path": "skills/profiles/mow/email/email-inbox-triage/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/email/himalaya",
+      "path": "skills/profiles/mow/email/himalaya/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/engineering/design-code-architecture",
+      "path": "skills/profiles/mow/engineering/design-code-architecture/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/engineering/improve-code-quality",
+      "path": "skills/profiles/mow/engineering/improve-code-quality/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/media/gif-search",
+      "path": "skills/profiles/mow/media/gif-search/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/media/songsee",
+      "path": "skills/profiles/mow/media/songsee/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/media/youtube-content",
+      "path": "skills/profiles/mow/media/youtube-content/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/note-taking/obsidian",
+      "path": "skills/profiles/mow/note-taking/obsidian/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/product/create-app",
+      "path": "skills/profiles/mow/product/create-app/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/product/create-website",
+      "path": "skills/profiles/mow/product/create-website/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/product/grow-app",
+      "path": "skills/profiles/mow/product/grow-app/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/product/grow-website",
+      "path": "skills/profiles/mow/product/grow-website/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/product/improve-business",
+      "path": "skills/profiles/mow/product/improve-business/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/product/improve-website",
+      "path": "skills/profiles/mow/product/improve-website/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/productivity/airtable",
+      "path": "skills/profiles/mow/productivity/airtable/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/productivity/box",
+      "path": "skills/profiles/mow/productivity/box/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/productivity/document-to-action-items",
+      "path": "skills/profiles/mow/productivity/document-to-action-items/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/productivity/docx",
+      "path": "skills/profiles/mow/productivity/docx/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/productivity/google-workspace",
+      "path": "skills/profiles/mow/productivity/google-workspace/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/productivity/maps",
+      "path": "skills/profiles/mow/productivity/maps/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/productivity/meeting-action-items",
+      "path": "skills/profiles/mow/productivity/meeting-action-items/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/productivity/mow-curriculum-architect",
+      "path": "skills/profiles/mow/productivity/mow-curriculum-architect/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/productivity/notion",
+      "path": "skills/profiles/mow/productivity/notion/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/productivity/pdf",
+      "path": "skills/profiles/mow/productivity/pdf/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/productivity/powerpoint",
+      "path": "skills/profiles/mow/productivity/powerpoint/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/productivity/product-price-monitor",
+      "path": "skills/profiles/mow/productivity/product-price-monitor/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/productivity/solopreneur-operations",
+      "path": "skills/profiles/mow/productivity/solopreneur-operations/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/productivity/teams-meeting-pipeline",
+      "path": "skills/profiles/mow/productivity/teams-meeting-pipeline/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/productivity/vault-sync",
+      "path": "skills/profiles/mow/productivity/vault-sync/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/productivity/weekly-review-planning",
+      "path": "skills/profiles/mow/productivity/weekly-review-planning/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/productivity/xlsx",
+      "path": "skills/profiles/mow/productivity/xlsx/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/research/arxiv",
+      "path": "skills/profiles/mow/research/arxiv/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/research/competitor-news-monitor",
+      "path": "skills/profiles/mow/research/competitor-news-monitor/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/research/grounded-citations",
+      "path": "skills/profiles/mow/research/grounded-citations/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/research/llm-wiki",
+      "path": "skills/profiles/mow/research/llm-wiki/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/research/mow-college-lead-researcher",
+      "path": "skills/profiles/mow/research/mow-college-lead-researcher/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/social-media/xurl",
+      "path": "skills/profiles/mow/social-media/xurl/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/software-development/codebase-inspection",
+      "path": "skills/profiles/mow/software-development/codebase-inspection/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/software-development/dogfood",
+      "path": "skills/profiles/mow/software-development/dogfood/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/software-development/github",
+      "path": "skills/profiles/mow/software-development/github/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/software-development/hermes-agent-skill-authoring",
+      "path": "skills/profiles/mow/software-development/hermes-agent-skill-authoring/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/software-development/inspecting-hermes-desktop-dom",
+      "path": "skills/profiles/mow/software-development/inspecting-hermes-desktop-dom/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/software-development/node-inspect-debugger",
+      "path": "skills/profiles/mow/software-development/node-inspect-debugger/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/software-development/python-debugpy",
+      "path": "skills/profiles/mow/software-development/python-debugpy/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/software-development/requesting-code-review",
+      "path": "skills/profiles/mow/software-development/requesting-code-review/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/software-development/simplify-code",
+      "path": "skills/profiles/mow/software-development/simplify-code/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/software-development/spike",
+      "path": "skills/profiles/mow/software-development/spike/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/software-development/systematic-debugging",
+      "path": "skills/profiles/mow/software-development/systematic-debugging/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/software-development/test-driven-development",
+      "path": "skills/profiles/mow/software-development/test-driven-development/SKILL.md"
+    },
+    {
+      "source": "profiles/mow/web/blocked-page-recovery",
+      "path": "skills/profiles/mow/web/blocked-page-recovery/SKILL.md"
+    },
+    {
+      "source": "profiles/pm/autonomous-ai-agents/hermes-agent",
+      "path": "skills/profiles/pm/autonomous-ai-agents/hermes-agent/SKILL.md"
+    },
+    {
+      "source": "profiles/pm/claude-code-imports/challenge",
+      "path": "skills/profiles/pm/claude-code-imports/challenge/SKILL.md"
+    },
+    {
+      "source": "profiles/pm/claude-code-imports/execute",
+      "path": "skills/profiles/pm/claude-code-imports/execute/SKILL.md"
+    },
+    {
+      "source": "profiles/pm/claude-code-imports/senior-pm",
+      "path": "skills/profiles/pm/claude-code-imports/senior-pm/SKILL.md"
+    },
+    {
+      "source": "profiles/pm/note-taking/obsidian",
+      "path": "skills/profiles/pm/note-taking/obsidian/SKILL.md"
+    },
+    {
+      "source": "profiles/pm/productivity/document-to-action-items",
+      "path": "skills/profiles/pm/productivity/document-to-action-items/SKILL.md"
+    },
+    {
+      "source": "profiles/pm/productivity/docx",
+      "path": "skills/profiles/pm/productivity/docx/SKILL.md"
+    },
+    {
+      "source": "profiles/pm/productivity/meeting-action-items",
+      "path": "skills/profiles/pm/productivity/meeting-action-items/SKILL.md"
+    },
+    {
+      "source": "profiles/pm/productivity/pdf",
+      "path": "skills/profiles/pm/productivity/pdf/SKILL.md"
+    },
+    {
+      "source": "profiles/pm/productivity/weekly-review-planning",
+      "path": "skills/profiles/pm/productivity/weekly-review-planning/SKILL.md"
+    },
+    {
+      "source": "profiles/pm/productivity/xlsx",
+      "path": "skills/profiles/pm/productivity/xlsx/SKILL.md"
+    },
+    {
+      "source": "profiles/pm/research/grounded-citations",
+      "path": "skills/profiles/pm/research/grounded-citations/SKILL.md"
+    },
+    {
+      "source": "profiles/proposals/business/sales-enablement",
+      "path": "skills/profiles/proposals/business/sales-enablement/SKILL.md"
+    },
+    {
+      "source": "profiles/proposals/claude-code-imports/brand-guidelines",
+      "path": "skills/profiles/proposals/claude-code-imports/brand-guidelines/SKILL.md"
+    },
+    {
+      "source": "profiles/proposals/claude-code-imports/competitor-profiling",
+      "path": "skills/profiles/proposals/claude-code-imports/competitor-profiling/SKILL.md"
+    },
+    {
+      "source": "profiles/proposals/claude-code-imports/contract-and-proposal-writer",
+      "path": "skills/profiles/proposals/claude-code-imports/contract-and-proposal-writer/SKILL.md"
+    },
+    {
+      "source": "profiles/proposals/claude-code-imports/copy-editing",
+      "path": "skills/profiles/proposals/claude-code-imports/copy-editing/SKILL.md"
+    },
+    {
+      "source": "profiles/proposals/claude-code-imports/copywriting",
+      "path": "skills/profiles/proposals/claude-code-imports/copywriting/SKILL.md"
+    },
+    {
+      "source": "profiles/proposals/claude-code-imports/deep-research",
+      "path": "skills/profiles/proposals/claude-code-imports/deep-research/SKILL.md"
+    },
+    {
+      "source": "profiles/proposals/claude-code-imports/offers",
+      "path": "skills/profiles/proposals/claude-code-imports/offers/SKILL.md"
+    },
+    {
+      "source": "profiles/proposals/claude-code-imports/pricing-strategist",
+      "path": "skills/profiles/proposals/claude-code-imports/pricing-strategist/SKILL.md"
+    },
+    {
+      "source": "profiles/proposals/claude-code-imports/rfp-responder",
+      "path": "skills/profiles/proposals/claude-code-imports/rfp-responder/SKILL.md"
+    },
+    {
+      "source": "profiles/proposals/creative/humanizer",
+      "path": "skills/profiles/proposals/creative/humanizer/SKILL.md"
+    },
+    {
+      "source": "profiles/proposals/note-taking/obsidian",
+      "path": "skills/profiles/proposals/note-taking/obsidian/SKILL.md"
+    },
+    {
+      "source": "profiles/proposals/productivity/docx",
+      "path": "skills/profiles/proposals/productivity/docx/SKILL.md"
+    },
+    {
+      "source": "profiles/proposals/productivity/pdf",
+      "path": "skills/profiles/proposals/productivity/pdf/SKILL.md"
+    },
+    {
+      "source": "profiles/proposals/productivity/powerpoint",
+      "path": "skills/profiles/proposals/productivity/powerpoint/SKILL.md"
+    },
+    {
+      "source": "profiles/proposals/productivity/xlsx",
+      "path": "skills/profiles/proposals/productivity/xlsx/SKILL.md"
+    },
+    {
+      "source": "profiles/proposals/research/grounded-citations",
+      "path": "skills/profiles/proposals/research/grounded-citations/SKILL.md"
+    },
+    {
+      "source": "profiles/proposals/research/mow-college-lead-researcher",
+      "path": "skills/profiles/proposals/research/mow-college-lead-researcher/SKILL.md"
+    },
+    {
+      "source": "profiles/proposals/web/blocked-page-recovery",
+      "path": "skills/profiles/proposals/web/blocked-page-recovery/SKILL.md"
+    }
+  ],
+  "totals": {
+    "skills_with_profile_copies": 1223,
+    "files": 6544,
+    "bytes": 77425902
+  }
+}
